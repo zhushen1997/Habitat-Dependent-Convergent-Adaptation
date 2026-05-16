@@ -1,0 +1,142 @@
+pathway	通路名称	pathway_name	Subcategory	Category
+ko00053	抗坏血酸和醛酸代谢	00053 Ascorbate and aldarate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00650	丁酸代谢	00650 Butanoate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00020	柠檬酸循环(TCA循环)	00020 Citrate cycle (TCA cycle) 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00051	果糖和甘露糖代谢	00051 Fructose and mannose metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00052	半乳糖代谢	00052 Galactose metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00010	糖酵解/糖异生	00010 Glycolysis / Gluconeogenesis 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00630	乙二酸和二羧酸代谢	00630 Glyoxylate and dicarboxylate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00562	肌醇磷酸代谢	00562 Inositol phosphate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00040	戊糖和葡萄糖酸相互转化	00040 Pentose and glucuronate interconversions 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00030	戊糖磷酸途径	00030 Pentose phosphate pathway 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00640	丙酸代谢	00640 Propanoate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00620	丙酮酸代谢	00620 Pyruvate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00500	淀粉和蔗糖代谢	00500 Starch and sucrose metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00910	氮代谢	00910 Nitrogen metabolism 	09102 Energy metabolism	09100 Metabolism
+ko00190	氧化磷酸化	00190 Oxidative phosphorylation 	09102 Energy metabolism	09100 Metabolism
+ko00920	硫代谢	00920 Sulfur metabolism 	09102 Energy metabolism	09100 Metabolism
+ko00592	α-亚麻酸代谢	00592 alpha-Linolenic acid metabolism 	09103 Lipid metabolism	09100 Metabolism
+ko00590	花生四烯酸代谢	00590 Arachidonic acid metabolism 	09103 Lipid metabolism	09100 Metabolism
+ko01040	不饱和脂肪酸生物合成	01040 Biosynthesis of unsaturated fatty acids 	09103 Lipid metabolism	09100 Metabolism
+ko00565	醚脂代谢	00565 Ether lipid metabolism 	09103 Lipid metabolism	09100 Metabolism
+ko00061	脂肪酸生物合成	00061 Fatty acid biosynthesis 	09103 Lipid metabolism	09100 Metabolism
+ko00071	脂肪酸降解	00071 Fatty acid degradation 	09103 Lipid metabolism	09100 Metabolism
+ko00062	脂肪酸延伸	00062 Fatty acid elongation 	09103 Lipid metabolism	09100 Metabolism
+ko00561	甘油脂代谢	00561 Glycerolipid metabolism 	09103 Lipid metabolism	09100 Metabolism
+ko00564	甘油磷脂代谢	00564 Glycerophospholipid metabolism 	09103 Lipid metabolism	09100 Metabolism
+ko00600	鞘脂代谢	00600 Sphingolipid metabolism 	09103 Lipid metabolism	09100 Metabolism
+ko00100	类固醇生物合成	00100 Steroid biosynthesis 	09103 Lipid metabolism	09100 Metabolism
+ko00230	嘌呤代谢	00230 Purine metabolism 	09104 Nucleotide metabolism	09100 Metabolism
+ko00240	嘧啶代谢	00240 Pyrimidine metabolism 	09104 Nucleotide metabolism	09100 Metabolism
+ko00250	丙氨酸、天冬氨酸和谷氨酸代谢	"00250 Alanine, aspartate and glutamate metabolism "	09105 Amino acid metabolism	09100 Metabolism
+ko00330	精氨酸和脯氨酸代谢	00330 Arginine and proline metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko00220	精氨酸生物合成	00220 Arginine biosynthesis 	09105 Amino acid metabolism	09100 Metabolism
+ko00270	半胱氨酸和蛋氨酸代谢	00270 Cysteine and methionine metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko00260	甘氨酸、丝氨酸和苏氨酸代谢	"00260 Glycine, serine and threonine metabolism "	09105 Amino acid metabolism	09100 Metabolism
+ko00340	组氨酸代谢	00340 Histidine metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko00310	赖氨酸降解	00310 Lysine degradation 	09105 Amino acid metabolism	09100 Metabolism
+ko00360	苯丙氨酸代谢	00360 Phenylalanine metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko00400	苯丙氨酸、酪氨酸和色氨酸生物合成	"00400 Phenylalanine, tyrosine and tryptophan biosynthesis "	09105 Amino acid metabolism	09100 Metabolism
+ko00380	色氨酸代谢	00380 Tryptophan metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko00350	酪氨酸代谢	00350 Tyrosine metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko00290	缬氨酸、亮氨酸和异亮氨酸生物合成	"00290 Valine, leucine and isoleucine biosynthesis "	09105 Amino acid metabolism	09100 Metabolism
+ko00280	缬氨酸、亮氨酸和异亮氨酸降解	"00280 Valine, leucine and isoleucine degradation "	09105 Amino acid metabolism	09100 Metabolism
+ko00410	β-丙氨酸代谢	00410 beta-Alanine metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00470	D-氨基酸代谢	00470 D-Amino acid metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00480	谷胱甘肽代谢	00480 Glutathione metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00440	磷酸盐和磷酸酯代谢	00440 Phosphonate and phosphinate metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00450	硒化合物代谢	00450 Selenocompound metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00430	牛磺酸和低牛磺酸代谢	00430 Taurine and hypotaurine metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00520	氨基糖和核苷酸糖代谢	00520 Amino sugar and nucleotide sugar metabolism 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00541	各种核苷酸糖生物合成	00541 Biosynthesis of various nucleotide sugars 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00532	糖胺聚糖生物合成-软骨素硫酸盐/皮肤素硫酸盐	00532 Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00534	糖胺聚糖生物合成-肝素硫酸盐/肝素	00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00531	糖胺聚糖降解	00531 Glycosaminoglycan degradation 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00604	糖鞘脂生物合成-神经节苷脂系列	00604 Glycosphingolipid biosynthesis - ganglio series 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00603	糖鞘脂生物合成-球状和异球状系列	00603 Glycosphingolipid biosynthesis - globo and isoglobo series 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00601	糖鞘脂生物合成-乳糖和新乳糖系列	00601 Glycosphingolipid biosynthesis - lacto and neolacto series 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00563	糖鞘脂生物合成-糖鞘磷脂	00563 Glycosylphosphatidylinositol (GPI)-anchor biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00515	甘露糖型O-糖链生物合成	00515 Mannose type O-glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00512	黏蛋白型O-糖链生物合成	00512 Mucin type O-glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00510	N-糖链生物合成	00510 N-Glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00511	其他糖胺聚糖降解	00511 Other glycan degradation 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00514	其他类型O-糖链生物合成	00514 Other types of O-glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00513	各种类型N-糖链生物合成	00513 Various types of N-glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00780	生物素代谢	00780 Biotin metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00790	叶酸生物合成	00790 Folate biosynthesis 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00785	二硫辛酸代谢	00785 Lipoic acid metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00760	尼古酸和烟酰胺代谢	00760 Nicotinate and nicotinamide metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00670	叶酸单碳代谢	00670 One carbon pool by folate 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00770	泛酸和辅酶A生物合成	00770 Pantothenate and CoA biosynthesis 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00860	卟啉代谢	00860 Porphyrin metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00830	视黄醇代谢	00830 Retinol metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00740	核黄素代谢	00740 Riboflavin metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00730	硫胺素代谢	00730 Thiamine metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00130	泛醌和其他萜类醌生物合成	00130 Ubiquinone and other terpenoid-quinone biosynthesis 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00750	维生素B6代谢	00750 Vitamin B6 metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00981	昆虫激素生物合成	00981 Insect hormone biosynthesis 	09109 Metabolism of terpenoids and polyketides	09100 Metabolism
+ko00900	萜类骨架生物合成	00900 Terpenoid backbone biosynthesis 	09109 Metabolism of terpenoids and polyketides	09100 Metabolism
+ko00232	咖啡因代谢	00232 Caffeine metabolism 	09110 Biosynthesis of other secondary metabolites	09100 Metabolism
+ko00982	药物代谢-细胞色素P450	00982 Drug metabolism - cytochrome P450 	09111 Xenobiotics biodegradation and metabolism	09100 Metabolism
+ko00983	药物代谢-其他酶	00983 Drug metabolism - other enzymes 	09111 Xenobiotics biodegradation and metabolism	09100 Metabolism
+ko00980	细胞色素P450代谢外源物	00980 Metabolism of xenobiotics by cytochrome P450 	09111 Xenobiotics biodegradation and metabolism	09100 Metabolism
+ko00983	药物代谢-其他酶	09113 Global maps only	09112 Not included in regular maps	09100 Metabolism
+ko03022	基础转录因子	03022 Basal transcription factors 	09121 Transcription	09120 Genetic Information Processing
+ko03020	RNA聚合酶	03020 RNA polymerase 	09121 Transcription	09120 Genetic Information Processing
+ko03040	剪接体	03040 Spliceosome 	09121 Transcription	09120 Genetic Information Processing
+ko00970	氨酰-tRNA生物合成	00970 Aminoacyl-tRNA biosynthesis 	09122 Translation	09120 Genetic Information Processing
+ko03015	mRNA监控通路	03015 mRNA surveillance pathway 	09122 Translation	09120 Genetic Information Processing
+ko03013	核糖核蛋白运输	03013 Nucleocytoplasmic transport 	09122 Translation	09120 Genetic Information Processing
+ko03010	核糖体	03010 Ribosome 	09122 Translation	09120 Genetic Information Processing
+ko03008	真核生物核糖体生物合成	03008 Ribosome biogenesis in eukaryotes 	09122 Translation	09120 Genetic Information Processing
+ko03050	蛋白酶体	03050 Proteasome 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko03060	蛋白质出口	03060 Protein export 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko04141	蛋白质在内质网中的加工	04141 Protein processing in endoplasmic reticulum 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko03018	RNA降解	03018 RNA degradation 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko04130	SNARE在囊泡运输中的相互作用	04130 SNARE interactions in vesicular transport 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko04122	硫传递系统	04122 Sulfur relay system 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko04120	泛素介导的蛋白降解	04120 Ubiquitin mediated proteolysis 	"09123 Folding, sorting and degradation"	09120 Genetic Information Processing
+ko03410	基因组碱基切除修复	03410 Base excision repair 	09124 Replication and repair	09120 Genetic Information Processing
+ko03030	DNA复制	03030 DNA replication 	09124 Replication and repair	09120 Genetic Information Processing
+ko03460	扇形贫血症通路	03460 Fanconi anemia pathway 	09124 Replication and repair	09120 Genetic Information Processing
+ko03440	同源重组	03440 Homologous recombination 	09124 Replication and repair	09120 Genetic Information Processing
+ko03430	错配修复	03430 Mismatch repair 	09124 Replication and repair	09120 Genetic Information Processing
+ko03450	非同源末端连接	03450 Non-homologous end-joining 	09124 Replication and repair	09120 Genetic Information Processing
+ko03420	核苷酸切除修复	03420 Nucleotide excision repair 	09124 Replication and repair	09120 Genetic Information Processing
+ko03082	ATP依赖的染色质重塑	03082 ATP-dependent chromatin remodeling 	09126 Chromosome	09120 Genetic Information Processing
+ko03083	多梳抑制复合体	03083 Polycomb repressive complex 	09126 Chromosome	09120 Genetic Information Processing
+ko02010	ABC转运蛋白	02010 ABC transporters 	09131 Membrane transport	09130 Environmental Information Processing
+ko04068	FoxO信号通路	04068 FoxO signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko04341	Hedgehog信号通路	04341 Hedgehog signaling pathway - fly 	09132 Signal transduction	09130 Environmental Information Processing
+ko04391	Hippo信号通路	04391 Hippo signaling pathway - fly 	09132 Signal transduction	09130 Environmental Information Processing
+ko04013	MAPK信号通路	04013 MAPK signaling pathway - fly 	09132 Signal transduction	09130 Environmental Information Processing
+ko04150	mTOR信号通路	04150 mTOR signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko04330	Notch信号通路	04330 Notch signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko04070	磷脂酰肌醇信号系统	04070 Phosphatidylinositol signaling system 	09132 Signal transduction	09130 Environmental Information Processing
+ko04350	TGF-β信号通路	04350 TGF-beta signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko04310	Wnt信号通路	04310 Wnt signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko04512	细胞外基质-受体相互作用	04512 ECM-receptor interaction 	09133 Signaling molecules and interaction	09130 Environmental Information Processing
+ko04081	激素信号	04081 Hormone signaling 	09133 Signaling molecules and interaction	09130 Environmental Information Processing
+ko04082	神经活性配体信号	04082 Neuroactive ligand signaling 	09133 Signaling molecules and interaction	09130 Environmental Information Processing
+ko04080	神经活性配体-受体相互作用	04080 Neuroactive ligand-receptor interaction 	09133 Signaling molecules and interaction	09130 Environmental Information Processing
+ko04140	动物细胞自噬	04140 Autophagy - animal 	09141 Transport and catabolism	09140 Cellular Processes
+ko04148	细胞吞噬作用	04148 Efferocytosis 	09141 Transport and catabolism	09140 Cellular Processes
+ko04144	内吞作用	04144 Endocytosis 	09141 Transport and catabolism	09140 Cellular Processes
+ko04142	溶酶体	04142 Lysosome 	09141 Transport and catabolism	09140 Cellular Processes
+ko04137	线粒体自噬	04137 Mitophagy - animal 	09141 Transport and catabolism	09140 Cellular Processes
+ko04146	过氧化物酶体	04146 Peroxisome 	09141 Transport and catabolism	09140 Cellular Processes
+ko04145	吞噬体	04145 Phagosome 	09141 Transport and catabolism	09140 Cellular Processes
+ko04820	肌细胞细胞骨架	04820 Cytoskeleton in muscle cells 	09142 Cell motility	09140 Cellular Processes
+ko04814	运动蛋白	04814 Motor proteins 	09142 Cell motility	09140 Cellular Processes
+ko04214	细胞凋亡	04214 Apoptosis - fly 	09143 Cell growth and death	09140 Cellular Processes
+ko04213	多物种寿命调节通路	04213 Longevity regulating pathway - multiple species 	09149 Aging	09150 Organismal Systems
+ko04624	Toll和Imd信号通路	04624 Toll and Imd signaling pathway 	09151 Immune system	09150 Organismal Systems
+ko04620	Toll样受体信号通路	04620 Toll-like receptor signaling pathway 	09151 Immune system	09150 Organismal Systems
+ko04980	钴胺素运输与代谢	04980 Cobalamin transport and metabolism 	09154 Digestive system	09150 Organismal Systems
+ko04981	叶酸运输与代谢	04981 Folate transport and metabolism 	09154 Digestive system	09150 Organismal Systems
+ko04977	维生素消化与吸收	04977 Vitamin digestion and absorption 	09154 Digestive system	09150 Organismal Systems
+ko04745	光转导	04745 Phototransduction - fly 	09157 Sensory system	09150 Organismal Systems
+ko04382	角化包膜形成	04382 Cornified envelope formation 	09158 Development and regeneration	09150 Organismal Systems
+ko04320	背腹轴形成	04320 Dorso-ventral axis formation 	09158 Development and regeneration	09150 Organismal Systems
+ko04711	生物钟节律	04711 Circadian rhythm - fly 	09159 Environmental adaptation	09150 Organismal Systems
+ko05100	细菌入侵上皮细胞	05100 Bacterial invasion of epithelial cells 	09171 Infectious disease: bacterial	09160 Human Diseases
