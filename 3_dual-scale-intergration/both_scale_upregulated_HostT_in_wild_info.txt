@@ -1,0 +1,7 @@
+pathway	pathway_name	Subcategory	Category
+ko04214	04214 Apoptosis - fly 	09143 Cell growth and death	09140 Cellular Processes
+ko04745	04745 Phototransduction - fly 	09157 Sensory system	09150 Organismal Systems
+ko04820	04820 Cytoskeleton in muscle cells 	09142 Cell motility	09140 Cellular Processes
+ko00534	00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko03273	03273 Virion - Lassa virus and SFTS virus 	09125 Information processing in viruses	09120 Genetic Information Processing
+ko01232	01232 Nucleotide metabolism	00000 Global and overview maps	09100 Metabolism

@@ -1,0 +1,40 @@
+module	module_name	中文名	category_C	category_B	
+M00038	Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate	色氨酸的代谢,色氨酸→犬尿氨酸→2-氨基己二酸	Aromatic amino acid metabolism	Amino acid metabolism	
+ko00363	Bisphenol degradation	双酚的降解	Xenobiotics biodegradation and metabolism	Xenobiotics biodegradation	
+M00027	GABA (gamma-Aminobutyrate) shunt	GABA(γ-氨基丁酸)旁路	Other amino acid metabolism	Amino acid metabolism	
+M00885	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)	梅尔米菌酸的生物合成,起始和延伸FASII(KasA)	Fatty acid metabolism	Lipid metabolism	
+M00912	NAD biosynthesis, tryptophan => quinolinate => NAD	烟酰胺的生物合成,色氨酸→喹啉酸→烟酰胺	Cofactor and vitamin metabolism	Metabolism of cofactors and vitamins	
+M00016	Lysine biosynthesis, succinyl-DAP pathway, aspartate => lysine	赖氨酸的生物合成,琥珀酰-DAP途径,天冬氨酸→赖氨酸	Lysine metabolism	Amino acid metabolism	
+ko00908	Zeatin biosynthesis	玉米素的生物合成	Metabolism of terpenoids and polyketides	Biosynthesis of terpenoids and polyketides	
+M00017	Methionine biosynthesis, aspartate => homoserine => methionine	甲硫氨酸的生物合成,天冬氨酸→齐墩果氨酸→甲硫氨酸	Cysteine and methionine metabolism	Amino acid metabolism	
+M00526	Lysine biosynthesis, DAP dehydrogenase pathway, aspartate => lysine	赖氨酸的生物合成,DAP脱氢酶途径,天冬氨酸→赖氨酸	Lysine metabolism	Amino acid metabolism	
+M00546	Purine degradation, xanthine => urea	嘌呤的降解,黄嘌呤→尿素	Purine metabolism	Nucleotide metabolism	
+M00887	Mycolic acid biosynthesis, meromycolic acid + alpha-carboxyacyl-CoA + trehalose => TMM => TDM/mAGP/GMM	肽聚糖的生物合成,梅尔米菌酸+α-羧酸酰辅酶A+海藻糖→TMM→TDM/mAGP/GMM	Fatty acid metabolism	Lipid metabolism	
+M00010	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	柠檬酸循环,第一个碳的氧化,草酰乙酸→α-酮戊二酸	Central carbohydrate metabolism	Carbohydrate metabolism	
+M00616	Sulfate-sulfur assimilation	硫酸盐-硫同化	Metabolic capacity	Metabolic capacity	
+ko00625	Chloroalkane and chloroalkene degradation	氯代烷烃和氯代烯烃的降解	Xenobiotics biodegradation and metabolism	Xenobiotics biodegradation	
+M00545	Trans-cinnamate degradation, trans-cinnamate => acetyl-CoA	反式肉桂酸的降解,反式肉桂酸→乙酰辅酶A	Aromatics degradation	Xenobiotics biodegradation	
+M00736	Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A	诺卡菌素A的生物合成,L-pHPG+精氨酸+丝氨酸→诺卡菌素A	Biosynthesis of beta-lactams	Biosynthesis of other secondary metabolites	
+M00555	Betaine biosynthesis, choline => betaine	甜菜碱的生物合成,胆碱→甜菜碱	Serine and threonine metabolism	Amino acid metabolism	
+M00175	Nitrogen fixation, nitrogen => ammonia	氮的固定,氮气→氨	Nitrogen metabolism	Energy metabolism	
+M00044	Tyrosine degradation, tyrosine => homogentisate	酪氨酸的降解,酪氨酸→同型尿黑酸	Aromatic amino acid metabolism	Amino acid metabolism	
+ko00984	Steroid degradation	类固醇的降解	Xenobiotics biodegradation and metabolism	Xenobiotics biodegradation	
+ko00907	Pinene, camphor and geraniol degradation	松油烯,樟脑和香叶醇的降解	Metabolism of terpenoids and polyketides	Biosynthesis of terpenoids and polyketides	
+M00973	Anammox, nitrite + ammonia => nitrogen	厌氧氨氧化,亚硝酸盐+氨→氮气	Nitrogen metabolism	Energy metabolism	
+M00878	Phenylacetate degradation, phenylaxetate => acetyl-CoA/succinyl-CoA	苯乙酸的降解,苯乙酸→乙酰辅酶A/琥珀酰辅酶A	Aromatics degradation	Xenobiotics biodegradation	
+M00540	Benzoate degradation, cyclohexanecarboxylic acid =>pimeloyl-CoA	苯甲酸的降解,环己烷羧酸→槁酸辅酶A	Aromatics degradation	Xenobiotics biodegradation	
+M00531	Assimilatory nitrate reduction, nitrate => ammonia	同化硝酸盐还原,硝酸盐→氨	Nitrogen metabolism	Energy metabolism	
+M00087	beta-Oxidation	β-氧化	Fatty acid metabolism	Lipid metabolism	
+M00082	Fatty acid biosynthesis, initiation	脂肪酸的生物合成,起始阶段	Fatty acid metabolism	Lipid metabolism	
+M00956	Lysine degradation, bacteria, L-lysine => succinate	赖氨酸的降解,细菌,L-赖氨酸→琥珀酸	Lysine metabolism	Amino acid metabolism	
+M00960	Lysine degradation, bacteria, L-lysine => D-lysine => succinate	赖氨酸的降解,细菌,L-赖氨酸→D-赖氨酸→琥珀酸	Lysine metabolism	Amino acid metabolism	
+M00990	Dimethylsulfoniopropionate (DMSP) degradation, demethylation pathway, DMSP => methanethiol	二甲基硫代丙酸(DMSP)的降解,脱甲基途径,DMSP→甲硫醇	Sulfur metabolism	Energy metabolism	
+ko00982	Drug metabolism - cytochrome P450	药物代谢--细胞色素P450	Xenobiotics biodegradation and metabolism	Xenobiotics biodegradation	
+M00975	Betaine degradation, bacteria, betaine => pyruvate	甜菜碱降解,细菌,甜菜碱→丙酮酸	Serine and threonine metabolism	Amino acid metabolism	
+M00886	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)	梅尔米菌酸的生物合成,起始和延伸FASII(KasA和KasB)	Fatty acid metabolism	Lipid metabolism	
+M00364	C10-C20 isoprenoid biosynthesis, bacteria	C10-C20异戊二烯的生物合成,细菌	Terpenoid backbone biosynthesis	Biosynthesis of terpenoids and polyketides	
+M00595	Sulfur oxidation, SOX system, thiosulfate => sulfate	硫氧化,SOX系统,硫代硫酸盐→硫酸盐	Sulfur metabolism	Energy metabolism	
+M00957	Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA	赖氨酸的降解,细菌,L-赖氨酸→谷氨酸→琥珀酸/乙酰辅酶A	Lysine metabolism	Amino acid metabolism	
+M00012	Glyoxylate cycle	甘油酸循环	Other carbohydrate metabolism	Carbohydrate metabolism	
+ko01053	Biosynthesis of siderophore group nonribosomal peptides	铁载体类非核糖体肽的生物合成	Metabolism of terpenoids and polyketides	Biosynthesis of terpenoids and polyketides	
+ko00930	Caprolactam degradation	己内酰胺的降解	Xenobiotics biodegradation and metabolism	Xenobiotics biodegradation	

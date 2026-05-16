@@ -1,0 +1,4735 @@
+bin	5S	16S	23S
+Bger_bac_bin001	0	0	0
+Bger_bac_bin002	1	0	0
+Bger_bac_bin003	0	0	0
+Bger_bac_bin004	0	0	0
+Bger_bac_bin005	2	1	1
+Bger_bac_bin006	3	0	1
+Bger_bac_bin007	1	1	1
+Bger_bac_bin008	0	0	0
+Bger_bac_bin009	0	0	0
+Bger_bac_bin010	1	0	0
+Bger_bac_bin011	1	0	0
+Bger_bac_bin012	0	0	0
+Bger_bac_bin013	0	0	0
+Bger_bac_bin014	0	0	0
+Bger_bac_bin015	0	0	0
+Bger_bac_bin016	0	0	0
+Bger_bac_bin017	0	0	0
+Bger_bac_bin018	1	0	1
+Bger_bac_bin019	0	0	0
+Bger_bac_bin020	0	0	0
+Bger_bac_bin021	0	0	0
+Bger_bac_bin022	0	0	0
+Bger_bac_bin023	1	3	1
+Bger_bac_bin024	1	0	0
+Bger_bac_bin025	1	0	0
+Bger_bac_bin026	1	0	0
+Bger_bac_bin027	0	0	0
+Bger_bac_bin028	0	0	0
+Bger_bac_bin029	0	0	0
+Bger_bac_bin030	1	0	0
+Bger_bac_bin031	0	0	0
+Bger_bac_bin032	0	0	0
+Bger_bac_bin033	1	0	0
+Bger_bac_bin034	1	0	0
+Bger_bac_bin035	0	0	0
+Bger_bac_bin036	0	0	0
+Bger_bac_bin037	0	0	0
+Bger_bac_bin038	0	0	0
+Bger_bac_bin039	0	0	0
+Bger_bac_bin040	0	0	0
+Bger_bac_bin041	0	0	0
+Bger_bac_bin042	1	0	0
+Bger_bac_bin043	0	0	0
+Bger_bac_bin044	1	0	1
+Bger_bac_bin045	1	1	0
+Bger_bac_bin046	0	0	0
+Bger_bac_bin047	3	2	0
+Bger_bac_bin048	2	1	1
+Bger_bac_bin049	0	0	0
+Bger_bac_bin050	1	1	0
+Bger_bac_bin051	0	0	0
+Bger_bac_bin052	2	0	1
+Bger_bac_bin053	1	2	1
+Bger_bac_bin054	1	1	1
+Bger_bac_bin055	3	5	1
+Bger_bac_bin056	0	0	0
+Bger_bac_bin057	1	2	1
+Bger_bac_bin058	2	0	0
+Bger_bac_bin059	3	1	2
+Bger_bac_bin060	3	1	1
+Bger_bac_bin061	3	2	2
+Bger_bac_bin062	1	0	0
+Bger_bac_bin063	1	1	0
+Bger_bac_bin064	1	0	0
+Bger_bac_bin065	2	1	1
+Bger_bac_bin066	1	3	1
+Bger_bac_bin067	2	0	0
+Bger_bac_bin068	1	0	0
+Bger_bac_bin069	2	0	0
+Bger_bac_bin070	0	0	0
+Bger_bac_bin071	0	0	0
+Bger_bac_bin072	2	0	0
+Bger_bac_bin073	3	3	1
+Bger_bac_bin074	0	1	0
+Bger_bac_bin075	0	0	0
+Bger_bac_bin076	0	0	0
+Bger_bac_bin077	2	3	1
+Bger_bac_bin078	1	0	0
+Bger_bac_bin079	2	2	1
+Bger_bac_bin080	1	0	0
+Bger_bac_bin081	1	1	0
+Bger_bac_bin082	3	1	2
+Bger_bac_bin083	5	2	1
+Bger_bac_bin084	0	1	0
+Bger_bac_bin085	2	2	0
+Bger_bac_bin086	2	1	1
+Bger_bac_bin087	3	3	1
+Bger_bac_bin088	0	0	0
+Bger_bac_bin089	2	1	0
+Bger_bac_bin090	1	0	0
+Bger_bac_bin091	2	1	1
+Bger_bac_bin092	0	0	0
+Bger_bac_bin093	0	0	0
+Bger_bac_bin094	0	0	0
+Bger_bac_bin095	0	0	0
+Bger_bac_bin096	1	1	1
+Bger_bac_bin097	2	1	0
+Bger_bac_bin098	0	0	0
+Bger_bac_bin099	0	0	0
+Bger_bac_bin100	1	0	0
+Bger_bac_bin101	0	0	0
+Bger_bac_bin102	0	0	0
+Bger_bac_bin103	0	0	0
+Bger_bac_bin104	1	2	1
+Bger_bac_bin105	1	1	0
+Bger_bac_bin106	0	0	0
+Bger_bac_bin107	1	0	0
+Bger_bac_bin108	1	0	0
+Bger_bac_bin109	0	1	0
+Bger_bac_bin110	2	1	0
+Bger_bac_bin111	0	0	0
+Bger_bac_bin112	0	0	0
+Bger_bac_bin113	0	0	0
+Bger_bac_bin114	4	0	0
+Bger_bac_bin115	0	0	0
+Bger_bac_bin116	1	0	0
+Bger_bac_bin117	0	0	0
+Bger_bac_bin118	2	0	2
+Bger_bac_bin119	2	0	0
+Bger_bac_bin120	0	0	0
+Bger_bac_bin121	0	0	0
+Bger_bac_bin122	0	0	0
+Bger_bac_bin123	0	0	0
+Bger_bac_bin124	1	1	0
+Bger_bac_bin125	1	1	0
+Bger_bac_bin126	0	0	0
+Bger_bac_bin127	2	0	1
+Bger_bac_bin128	1	0	1
+Bger_bac_bin129	4	0	1
+Bger_bac_bin130	2	0	0
+Bger_bac_bin131	2	0	0
+Bger_bac_bin132	2	1	0
+Bger_bac_bin133	0	1	0
+Bger_bac_bin134	1	2	1
+Bger_bac_bin135	4	2	1
+Bger_bac_bin136	3	1	1
+Bger_bac_bin137	3	0	0
+Bger_bac_bin138	1	2	0
+Bger_bac_bin139	0	0	0
+Bger_bac_bin140	3	2	0
+Bger_bac_bin141	0	0	0
+Bger_bac_bin142	1	1	1
+Bger_bac_bin143	0	0	0
+Bger_bac_bin144	1	0	0
+Bger_bac_bin145	0	0	0
+Bger_bac_bin146	0	1	0
+Bger_bac_bin147	1	0	0
+Bger_bac_bin148	1	1	1
+Bger_bac_bin149	1	1	1
+Bger_bac_bin150	1	0	0
+Bger_bac_bin151	0	0	0
+Bger_bac_bin152	0	0	0
+Bger_bac_bin153	0	0	0
+Bger_bac_bin154	0	0	0
+Bger_bac_bin155	0	0	0
+Bger_bac_bin156	1	0	0
+Bger_bac_bin157	1	0	0
+Bger_bac_bin158	1	0	0
+Bger_bac_bin159	0	0	0
+Bger_bac_bin160	0	0	0
+Bger_bac_bin161	0	0	0
+Bger_bac_bin162	1	0	0
+Bger_bac_bin163	0	0	0
+Bger_bac_bin164	0	0	0
+Bger_bac_bin165	1	0	0
+Bger_bac_bin166	1	0	0
+Bger_bac_bin167	2	0	0
+Bger_bac_bin168	3	0	0
+Bger_bac_bin169	1	0	0
+Bger_bac_bin170	3	0	0
+Bger_bac_bin171	1	1	0
+Bger_bac_bin172	0	0	0
+Bger_bac_bin173	0	0	0
+Bger_bac_bin174	0	0	0
+Bger_bac_bin175	1	0	0
+Bger_bac_bin176	0	0	0
+Bger_bac_bin177	2	0	1
+Bger_bac_bin178	1	0	0
+Bger_bac_bin179	0	0	0
+Bger_bac_bin180	0	0	0
+Bger_bac_bin181	1	0	1
+Bger_bac_bin182	0	0	0
+Bger_bac_bin183	0	0	0
+Bger_bac_bin184	0	0	0
+Bger_bac_bin185	1	1	1
+Bger_bac_bin186	1	0	0
+Bger_bac_bin187	0	0	0
+Bger_bac_bin188	1	0	0
+Bger_bac_bin189	1	1	1
+Bger_bac_bin190	0	0	0
+Bger_bac_bin191	0	0	0
+Bger_bac_bin192	2	1	1
+Bger_bac_bin193	1	1	1
+Bger_bac_bin194	1	0	1
+Bger_bac_bin195	1	0	0
+Bger_bac_bin196	1	1	0
+Bger_bac_bin197	2	1	0
+Bger_bac_bin198	0	0	0
+Bger_bac_bin199	1	0	0
+Bger_bac_bin200	0	0	0
+Bger_bac_bin201	1	1	0
+Bger_bac_bin202	0	0	0
+Bger_bac_bin203	2	0	0
+Bger_bac_bin204	0	0	0
+Bger_bac_bin205	0	0	0
+Bger_bac_bin206	1	1	0
+Bger_bac_bin207	0	0	0
+Bger_bac_bin208	0	0	0
+Bger_bac_bin209	1	0	0
+Bger_bac_bin210	0	0	0
+Bger_bac_bin211	0	0	0
+Bger_bac_bin212	1	0	0
+Bger_bac_bin213	1	0	0
+Bger_bac_bin214	0	0	0
+Bger_bac_bin215	0	0	0
+Bger_bac_bin216	1	1	0
+Bger_bac_bin217	1	3	2
+Bger_bac_bin218	0	0	0
+Esin_bac_bin001	0	0	0
+Esin_bac_bin002	2	0	0
+Esin_bac_bin003	1	1	1
+Esin_bac_bin004	2	2	2
+Esin_bac_bin005	1	0	1
+Esin_bac_bin006	0	0	0
+Esin_bac_bin007	0	0	0
+Esin_bac_bin008	0	0	0
+Esin_bac_bin009	0	0	0
+Esin_bac_bin010	0	0	0
+Esin_bac_bin011	2	2	2
+Esin_bac_bin012	1	1	1
+Esin_bac_bin013	3	1	1
+Esin_bac_bin014	2	0	0
+Esin_bac_bin015	1	2	2
+Esin_bac_bin016	2	3	2
+Esin_bac_bin017	1	1	1
+Esin_bac_bin018	1	0	0
+Esin_bac_bin019	3	3	3
+Esin_bac_bin020	2	1	1
+Esin_bac_bin021	3	3	3
+Esin_bac_bin022	2	1	1
+Esin_bac_bin023	2	1	1
+Esin_bac_bin024	4	3	3
+Esin_bac_bin025	1	1	1
+Esin_bac_bin026	1	2	2
+Esin_bac_bin027	2	2	2
+Esin_bac_bin028	1	2	1
+Esin_bac_bin029	1	0	1
+Esin_bac_bin030	2	2	2
+Esin_bac_bin031	1	1	1
+Esin_bac_bin032	0	1	1
+Esin_bac_bin033	2	2	2
+Esin_bac_bin034	0	0	0
+Esin_bac_bin035	1	1	1
+Esin_bac_bin036	1	2	1
+Esin_bac_bin037	1	1	1
+Esin_bac_bin038	1	2	1
+Esin_bac_bin039	0	1	1
+Esin_bac_bin040	2	2	2
+Esin_bac_bin041	3	2	3
+Esin_bac_bin042	2	0	1
+Esin_bac_bin043	1	2	1
+Esin_bac_bin044	1	2	0
+Esin_bac_bin045	2	2	1
+Esin_bac_bin046	1	2	1
+Esin_bac_bin047	0	1	1
+Esin_bac_bin048	1	2	1
+Esin_bac_bin049	0	0	0
+Esin_bac_bin050	2	2	2
+Esin_bac_bin051	0	0	0
+Esin_bac_bin052	0	0	0
+Esin_bac_bin053	2	1	0
+Esin_bac_bin054	0	1	1
+Esin_bac_bin055	2	2	1
+Esin_bac_bin056	1	1	0
+Esin_bac_bin057	1	0	1
+Esin_bac_bin058	1	1	1
+Esin_bac_bin059	1	1	1
+Esin_bac_bin060	2	1	1
+Esin_bac_bin061	1	2	1
+Esin_bac_bin062	1	1	0
+Esin_bac_bin063	1	1	1
+Esin_bac_bin064	0	1	0
+Esin_bac_bin065	1	0	1
+Esin_bac_bin066	1	1	1
+Esin_bac_bin067	0	0	0
+Esin_bac_bin068	0	0	0
+Esin_bac_bin069	3	2	3
+Esin_bac_bin070	3	2	1
+Esin_bac_bin071	2	2	2
+Esin_bac_bin072	3	4	1
+Esin_bac_bin073	2	3	1
+Esin_bac_bin074	7	7	7
+Esin_bac_bin075	4	4	4
+Esin_bac_bin076	1	1	0
+Esin_bac_bin077	3	3	3
+Esin_bac_bin078	2	1	1
+Esin_bac_bin079	4	4	4
+Esin_bac_bin080	5	6	4
+Esin_bac_bin081	2	2	2
+Esin_bac_bin082	3	3	3
+Esin_bac_bin083	4	4	4
+Esin_bac_bin084	2	2	2
+Esin_bac_bin085	2	2	2
+Esin_bac_bin086	0	0	0
+Esin_bac_bin087	0	0	0
+Esin_bac_bin088	0	0	0
+Esin_bac_bin089	0	0	0
+Esin_bac_bin090	0	0	0
+Esin_bac_bin091	1	0	0
+Esin_bac_bin092	1	2	1
+Esin_bac_bin093	3	3	1
+Esin_bac_bin094	4	4	4
+Esin_bac_bin095	4	4	4
+Esin_bac_bin096	0	0	0
+Esin_bac_bin097	1	1	2
+Esin_bac_bin098	2	2	2
+Esin_bac_bin099	3	3	3
+Esin_bac_bin100	0	1	1
+Esin_bac_bin101	0	0	0
+Esin_bac_bin102	2	2	2
+Esin_bac_bin103	3	2	2
+Esin_bac_bin104	1	0	0
+Esin_bac_bin105	0	0	0
+Esin_bac_bin106	0	1	0
+Esin_bac_bin107	2	1	1
+Esin_bac_bin108	0	0	0
+Esin_bac_bin109	0	1	1
+Esin_bac_bin110	0	1	0
+Esin_bac_bin111	0	1	1
+Esin_bac_bin112	1	1	1
+Esin_bac_bin113	2	2	2
+Esin_bac_bin114	1	2	2
+Esin_bac_bin115	0	0	0
+Esin_bac_bin116	0	0	0
+Esin_bac_bin117	1	1	1
+Esin_bac_bin118	0	0	0
+Esin_bac_bin119	0	0	0
+Esin_bac_bin120	1	0	1
+Esin_bac_bin121	0	0	0
+Esin_bac_bin122	0	0	0
+Esin_bac_bin123	4	2	2
+Esin_bac_bin124	0	0	1
+Esin_bac_bin125	1	1	1
+Esin_bac_bin126	0	0	0
+Esin_bac_bin127	2	2	2
+Esin_bac_bin128	0	0	0
+Esin_bac_bin129	1	2	1
+Esin_bac_bin130	1	1	0
+Esin_bac_bin131	2	2	2
+Esin_bac_bin132	0	1	0
+Esin_bac_bin133	0	1	0
+Esin_bac_bin134	2	2	2
+Esin_bac_bin135	2	1	0
+Esin_bac_bin136	1	1	0
+Esin_bac_bin137	3	2	3
+Esin_bac_bin138	2	2	2
+Esin_bac_bin139	2	2	2
+Esin_bac_bin140	1	2	1
+Esin_bac_bin141	2	2	2
+Esin_bac_bin142	1	1	1
+Esin_bac_bin143	0	1	0
+Esin_bac_bin144	4	3	3
+Esin_bac_bin145	1	2	0
+Esin_bac_bin146	0	0	0
+Esin_bac_bin147	1	1	1
+Esin_bac_bin148	0	1	0
+Esin_bac_bin149	0	0	0
+Esin_bac_bin150	1	1	1
+Esin_bac_bin151	1	2	1
+Esin_bac_bin152	2	1	1
+Esin_bac_bin153	2	3	2
+Esin_bac_bin154	4	4	4
+Esin_bac_bin155	2	3	3
+Esin_bac_bin156	3	0	0
+Esin_bac_bin157	3	3	3
+Esin_bac_bin158	3	3	1
+Esin_bac_bin159	0	1	0
+Esin_bac_bin160	3	0	0
+Esin_bac_bin161	3	1	1
+Esin_bac_bin162	3	3	3
+Esin_bac_bin163	4	3	3
+Esin_bac_bin164	1	1	1
+Esin_bac_bin165	2	1	2
+Esin_bac_bin166	2	2	1
+Esin_bac_bin167	0	0	0
+Esin_bac_bin168	0	0	1
+Esin_bac_bin169	0	0	0
+Esin_bac_bin170	2	1	1
+Esin_bac_bin171	2	1	2
+Esin_bac_bin172	1	1	1
+Esin_bac_bin173	2	2	2
+Esin_bac_bin174	5	4	4
+Esin_bac_bin175	14	14	14
+Esin_bac_bin176	0	0	0
+Esin_bac_bin177	1	1	1
+Esin_bac_bin178	0	1	0
+Esin_bac_bin179	0	0	0
+Esin_bac_bin180	0	1	0
+Esin_bac_bin181	3	2	1
+Esin_bac_bin182	1	2	1
+Esin_bac_bin183	5	4	4
+Esin_bac_bin184	0	1	1
+Esin_bac_bin185	2	1	1
+Esin_bac_bin186	1	0	0
+Esin_bac_bin187	4	4	4
+Esin_bac_bin188	4	4	4
+Esin_bac_bin189	1	0	0
+Esin_bac_bin190	0	0	0
+Esin_bac_bin191	5	3	3
+Esin_bac_bin192	5	4	4
+Esin_bac_bin193	0	0	0
+Esin_bac_bin194	0	0	0
+Esin_bac_bin195	2	1	1
+Esin_bac_bin196	4	4	2
+Esin_bac_bin197	5	5	4
+Esin_bac_bin198	1	0	1
+Esin_bac_bin199	1	1	1
+Esin_bac_bin200	4	4	4
+Esin_bac_bin201	4	4	4
+Esin_bac_bin202	0	0	0
+Esin_bac_bin203	3	2	2
+Esin_bac_bin204	4	4	4
+Esin_bac_bin205	1	2	1
+Esin_bac_bin206	3	2	2
+Esin_bac_bin207	5	6	6
+Esin_bac_bin208	2	3	3
+Esin_bac_bin209	1	2	1
+Esin_bac_bin210	1	1	1
+Esin_bac_bin211	1	1	1
+Esin_bac_bin212	0	0	0
+Esin_bac_bin213	2	1	1
+Esin_bac_bin214	2	2	2
+Esin_bac_bin215	2	2	2
+Esin_bac_bin216	1	1	1
+Esin_bac_bin217	1	1	1
+Esin_bac_bin218	2	2	2
+Esin_bac_bin219	0	0	0
+Esin_bac_bin220	1	2	1
+Esin_bac_bin221	2	2	2
+Esin_bac_bin222	1	1	1
+Esin_bac_bin223	1	1	1
+Esin_bac_bin224	1	1	1
+Esin_bac_bin225	1	1	1
+Esin_bac_bin226	0	0	0
+Esin_bac_bin227	0	0	0
+Esin_bac_bin228	1	1	1
+Esin_bac_bin229	1	1	1
+Esin_bac_bin230	2	2	1
+Esin_bac_bin231	1	2	1
+Esin_bac_bin232	1	1	1
+Esin_bac_bin233	0	0	0
+Esin_bac_bin234	1	1	1
+Esin_bac_bin235	1	1	1
+Esin_bac_bin236	0	0	0
+Esin_bac_bin237	2	2	2
+Esin_bac_bin238	1	1	1
+Esin_bac_bin239	0	0	0
+Esin_bac_bin240	1	1	1
+Esin_bac_bin241	1	1	1
+Esin_bac_bin242	0	0	0
+Esin_bac_bin243	2	3	2
+Esin_bac_bin244	0	1	0
+Esin_bac_bin245	1	1	1
+Esin_bac_bin246	2	2	2
+Esin_bac_bin247	4	3	3
+Esin_bac_bin248	2	2	2
+Esin_bac_bin249	2	2	2
+Esin_bac_bin250	4	3	3
+Esin_bac_bin251	2	2	2
+Esin_bac_bin252	2	3	2
+Esin_bac_bin253	2	2	1
+Esin_bac_bin254	2	3	2
+Esin_bac_bin255	3	3	3
+Esin_bac_bin256	1	2	1
+Esin_bac_bin257	2	4	2
+Esin_bac_bin258	2	3	2
+Esin_bac_bin259	0	0	0
+Esin_bac_bin260	2	2	2
+Esin_bac_bin261	1	2	1
+Esin_bac_bin262	2	2	2
+Esin_bac_bin263	2	1	1
+Esin_bac_bin264	2	1	1
+Esin_bac_bin265	2	2	2
+Esin_bac_bin266	2	2	1
+Esin_bac_bin267	3	3	3
+Esin_bac_bin268	3	1	1
+Esin_bac_bin269	2	2	2
+Esin_bac_bin270	2	2	2
+Esin_bac_bin271	3	3	2
+Esin_bac_bin272	4	3	3
+Esin_bac_bin273	3	3	3
+Esin_bac_bin274	1	2	0
+Esin_bac_bin275	3	1	1
+Esin_bac_bin276	2	1	1
+Esin_bac_bin277	3	3	1
+Esin_bac_bin278	5	4	4
+Esin_bac_bin279	4	1	1
+Esin_bac_bin280	3	2	2
+Esin_bac_bin281	4	4	4
+Esin_bac_bin282	3	3	3
+Esin_bac_bin283	1	1	1
+Esin_bac_bin284	3	3	3
+Esin_bac_bin285	4	3	3
+Esin_bac_bin286	3	3	3
+Esin_bac_bin287	2	2	2
+Esin_bac_bin288	0	0	0
+Esin_bac_bin289	3	2	3
+Esin_bac_bin290	2	2	2
+Esin_bac_bin291	0	0	0
+Esin_bac_bin292	3	1	3
+Esin_bac_bin293	0	0	0
+Esin_bac_bin294	2	2	2
+Esin_bac_bin295	1	1	1
+Esin_bac_bin296	1	1	0
+Esin_bac_bin297	1	0	1
+Esin_bac_bin298	2	1	2
+Esin_bac_bin299	2	2	2
+Esin_bac_bin300	1	2	1
+Esin_bac_bin301	2	1	1
+Esin_bac_bin302	2	2	2
+Esin_bac_bin303	1	2	2
+Esin_bac_bin304	2	2	2
+Esin_bac_bin305	1	1	1
+Esin_bac_bin306	0	1	0
+Esin_bac_bin307	1	1	1
+Esin_bac_bin308	1	1	0
+Esin_bac_bin309	1	1	1
+Esin_bac_bin310	2	0	2
+Esin_bac_bin311	2	1	1
+Esin_bac_bin312	1	1	1
+Esin_bac_bin313	2	2	2
+Esin_bac_bin314	4	3	3
+Esin_bac_bin315	2	2	2
+Esin_bac_bin316	2	2	2
+Esin_bac_bin317	2	2	2
+Esin_bac_bin318	2	0	1
+Esin_bac_bin319	2	1	1
+Esin_bac_bin320	0	0	0
+Esin_bac_bin321	1	2	1
+Esin_bac_bin322	0	1	0
+Esin_bac_bin323	2	2	2
+Esin_bac_bin324	1	1	0
+Esin_bac_bin325	2	2	1
+Esin_bac_bin326	2	1	1
+Esin_bac_bin327	2	2	2
+Esin_bac_bin328	1	1	1
+Esin_bac_bin329	2	2	2
+Esin_bac_bin330	2	2	2
+Esin_bac_bin331	4	2	1
+Esin_bac_bin332	4	3	4
+Esin_bac_bin333	2	3	2
+Esin_bac_bin334	1	0	0
+Esin_bac_bin335	2	1	1
+Esin_bac_bin336	4	3	3
+Esin_bac_bin337	5	5	4
+Esin_bac_bin338	5	2	1
+Esin_bac_bin339	4	3	3
+Esin_bac_bin340	2	2	2
+Esin_bac_bin341	0	0	0
+Esin_bac_bin342	2	4	3
+Esin_bac_bin343	3	3	3
+Esin_bac_bin344	3	1	3
+Esin_bac_bin345	4	3	2
+Esin_bac_bin346	3	2	3
+Esin_bac_bin347	3	3	3
+Esin_bac_bin348	3	3	3
+Esin_bac_bin349	3	3	3
+Esin_bac_bin350	3	3	3
+Esin_bac_bin351	2	3	3
+Esin_bac_bin352	2	1	2
+Esin_bac_bin353	2	3	2
+Esin_bac_bin354	2	0	0
+Esin_bac_bin355	1	2	1
+Esin_bac_bin356	3	2	2
+Esin_bac_bin357	2	2	2
+Esin_bac_bin358	3	3	1
+Esin_bac_bin359	4	2	4
+Esin_bac_bin360	2	2	2
+Esin_bac_bin361	2	1	1
+Esin_bac_bin362	2	2	2
+Esin_bac_bin363	2	2	2
+Esin_bac_bin364	1	1	1
+Esin_bac_bin365	0	0	0
+Esin_bac_bin366	0	1	1
+Esin_bac_bin367	5	6	5
+Esin_bac_bin368	1	1	1
+Esin_bac_bin369	1	0	1
+Esin_bac_bin370	0	0	0
+Esin_bac_bin371	1	1	1
+Esin_bac_bin372	1	1	1
+Esin_bac_bin373	1	0	1
+Esin_bac_bin374	1	0	0
+Esin_bac_bin375	1	1	1
+Esin_bac_bin376	3	3	3
+Esin_bac_bin377	0	0	0
+Esin_bac_bin378	0	0	0
+Esin_bac_bin379	0	0	0
+Esin_bac_bin380	1	1	0
+Esin_bac_bin381	0	0	0
+Esin_bac_bin382	1	1	1
+Esin_bac_bin383	2	2	2
+Esin_bac_bin384	2	2	2
+Esin_bac_bin385	2	3	2
+Esin_bac_bin386	0	1	0
+Esin_bac_bin387	2	2	2
+Esin_bac_bin388	1	1	1
+Esin_bac_bin389	0	0	0
+Esin_bac_bin390	0	0	0
+Esin_bac_bin391	1	3	0
+Esin_bac_bin392	1	1	1
+Esin_bac_bin393	1	1	1
+Esin_bac_bin394	0	0	0
+Esin_bac_bin395	1	1	0
+Esin_bac_bin396	1	1	1
+Esin_bac_bin397	1	1	1
+Esin_bac_bin398	1	1	1
+Esin_bac_bin399	0	0	0
+Esin_bac_bin400	0	1	1
+Esin_bac_bin401	2	2	2
+Esin_bac_bin402	1	1	1
+Esin_bac_bin403	1	2	0
+Esin_bac_bin404	1	1	0
+Esin_bac_bin405	2	2	2
+Esin_bac_bin406	3	2	3
+Esin_bac_bin407	2	2	2
+Esin_bac_bin408	2	2	2
+Esin_bac_bin409	0	0	0
+Esin_bac_bin410	1	1	1
+Esin_bac_bin411	0	0	0
+Esin_bac_bin412	1	0	0
+Esin_bac_bin413	1	0	0
+Esin_bac_bin414	1	1	1
+Esin_bac_bin415	1	1	1
+Esin_bac_bin416	0	0	0
+Esin_bac_bin417	0	0	0
+Esin_bac_bin418	1	0	0
+Esin_bac_bin419	1	0	0
+Esin_bac_bin420	0	0	0
+Esin_bac_bin421	1	1	1
+Esin_bac_bin422	2	0	0
+Esin_bac_bin423	2	2	2
+Esin_bac_bin424	3	3	3
+Esin_bac_bin425	1	2	2
+Esin_bac_bin426	0	0	0
+Esin_bac_bin427	1	1	1
+Esin_bac_bin428	0	0	0
+Esin_bac_bin429	4	4	4
+Esin_bac_bin430	1	1	0
+Esin_bac_bin431	0	1	0
+Esin_bac_bin432	2	2	2
+Esin_bac_bin433	2	2	2
+Esin_bac_bin434	0	0	0
+Esin_bac_bin435	3	3	3
+Esin_bac_bin436	3	3	3
+Esin_bac_bin437	3	3	3
+Esin_bac_bin438	2	3	2
+Esin_bac_bin439	2	1	2
+Esin_bac_bin440	4	4	4
+Esin_bac_bin441	2	2	2
+Esin_bac_bin442	1	1	1
+Esin_bac_bin443	1	0	0
+Esin_bac_bin444	2	2	2
+Esin_bac_bin445	2	2	2
+Esin_bac_bin446	0	0	0
+Esin_bac_bin447	1	1	1
+Esin_bac_bin448	2	1	1
+Esin_bac_bin449	3	3	3
+Esin_bac_bin450	0	1	0
+Esin_bac_bin451	1	1	1
+Pame_bac_bin001	0	1	1
+Pame_bac_bin002	1	0	0
+Pame_bac_bin003	1	1	1
+Pame_bac_bin004	1	1	1
+Pame_bac_bin005	1	0	0
+Pame_bac_bin006	0	0	0
+Pame_bac_bin007	0	1	0
+Pame_bac_bin008	0	0	0
+Pame_bac_bin009	1	1	1
+Pame_bac_bin010	0	0	0
+Pame_bac_bin011	2	2	1
+Pame_bac_bin012	5	5	5
+Pame_bac_bin013	1	0	0
+Pame_bac_bin014	6	4	4
+Pame_bac_bin015	2	2	1
+Pame_bac_bin016	4	4	4
+Pame_bac_bin017	3	2	2
+Pame_bac_bin018	5	4	4
+Pame_bac_bin019	3	2	2
+Pame_bac_bin020	3	3	2
+Pame_bac_bin021	1	1	1
+Pame_bac_bin022	1	0	0
+Pame_bac_bin023	0	0	0
+Pame_bac_bin024	3	5	3
+Pame_bac_bin025	2	2	2
+Pame_bac_bin026	0	1	0
+Pame_bac_bin027	1	1	1
+Pame_bac_bin028	0	1	0
+Pame_bac_bin029	2	4	2
+Pame_bac_bin030	3	3	3
+Pame_bac_bin031	2	2	2
+Pame_bac_bin032	5	2	2
+Pame_bac_bin033	4	2	5
+Pame_bac_bin034	1	1	1
+Pame_bac_bin035	0	0	0
+Pame_bac_bin036	0	0	0
+Pame_bac_bin037	1	0	1
+Pame_bac_bin038	4	4	2
+Pame_bac_bin039	1	2	2
+Pame_bac_bin040	0	0	0
+Pame_bac_bin041	0	2	1
+Pame_bac_bin042	2	4	2
+Pame_bac_bin043	0	1	0
+Pame_bac_bin044	1	1	1
+Pame_bac_bin045	0	0	0
+Pame_bac_bin046	2	2	1
+Pame_bac_bin047	0	0	0
+Pame_bac_bin048	0	1	0
+Pame_bac_bin049	1	1	1
+Pame_bac_bin050	1	0	1
+Pame_bac_bin051	0	1	0
+Pame_bac_bin052	1	1	1
+Pame_bac_bin053	1	1	1
+Pame_bac_bin054	0	0	0
+Pame_bac_bin055	2	1	2
+Pame_bac_bin056	1	2	1
+Pame_bac_bin057	1	3	1
+Pame_bac_bin058	0	1	0
+Pame_bac_bin059	0	0	0
+Pame_bac_bin060	0	0	0
+Pame_bac_bin061	0	0	0
+Pame_bac_bin062	1	1	1
+Pame_bac_bin063	0	0	0
+Pame_bac_bin064	1	1	1
+Pame_bac_bin065	0	1	0
+Pame_bac_bin066	0	0	0
+Pame_bac_bin067	1	1	1
+Pame_bac_bin068	1	1	1
+Pame_bac_bin069	1	0	0
+Pame_bac_bin070	0	0	0
+Pame_bac_bin071	0	0	0
+Pame_bac_bin072	4	4	4
+Pame_bac_bin073	3	3	2
+Pame_bac_bin074	1	1	1
+Pame_bac_bin075	1	1	1
+Pame_bac_bin076	2	3	4
+Pame_bac_bin077	3	3	1
+Pame_bac_bin078	3	3	3
+Pame_bac_bin079	4	4	4
+Pame_bac_bin080	1	1	1
+Pame_bac_bin081	2	2	3
+Pame_bac_bin082	2	2	3
+Pame_bac_bin083	3	3	3
+Pame_bac_bin084	1	2	1
+Pame_bac_bin085	0	0	0
+Pame_bac_bin086	1	2	2
+Pame_bac_bin087	1	1	1
+Pame_bac_bin088	0	1	1
+Pame_bac_bin089	0	0	0
+Pame_bac_bin090	2	2	1
+Pame_bac_bin091	0	1	0
+Pame_bac_bin092	0	0	0
+Pame_bac_bin093	0	0	0
+Pame_bac_bin094	1	0	0
+Pame_bac_bin095	0	0	0
+Pame_bac_bin096	0	0	0
+Pame_bac_bin097	0	0	0
+Pame_bac_bin098	1	1	1
+Pame_bac_bin099	2	2	2
+Pame_bac_bin100	1	1	1
+Pame_bac_bin101	0	0	0
+Pame_bac_bin102	0	0	0
+Pame_bac_bin103	0	0	0
+Pame_bac_bin104	0	0	0
+Pame_bac_bin105	0	1	0
+Pame_bac_bin106	0	0	0
+Pame_bac_bin107	3	3	3
+Pame_bac_bin108	1	2	1
+Pame_bac_bin109	0	0	0
+Pame_bac_bin110	0	1	1
+Pame_bac_bin111	0	0	0
+Pame_bac_bin112	0	0	0
+Pame_bac_bin113	3	1	3
+Pame_bac_bin114	0	0	0
+Pame_bac_bin115	0	0	0
+Pame_bac_bin116	2	3	2
+Pame_bac_bin117	0	0	0
+Pame_bac_bin118	1	1	1
+Pame_bac_bin119	0	0	0
+Pame_bac_bin120	0	0	0
+Pame_bac_bin121	1	0	0
+Pame_bac_bin122	0	0	0
+Pame_bac_bin123	0	0	0
+Pame_bac_bin124	0	0	0
+Pame_bac_bin125	0	0	0
+Pame_bac_bin126	3	3	3
+Pame_bac_bin127	0	0	0
+Pame_bac_bin128	1	1	1
+Pame_bac_bin129	1	1	0
+Pame_bac_bin130	0	0	0
+Pame_bac_bin131	0	0	0
+Pame_bac_bin132	2	2	3
+Pame_bac_bin133	1	1	1
+Pame_bac_bin134	0	0	0
+Pame_bac_bin135	0	0	0
+Pame_bac_bin136	0	0	0
+Pame_bac_bin137	0	0	0
+Pame_bac_bin138	0	0	0
+Pame_bac_bin139	0	0	0
+Pame_bac_bin140	0	0	0
+Pame_bac_bin141	2	3	3
+Pame_bac_bin142	0	0	0
+Pame_bac_bin143	1	1	1
+Pame_bac_bin144	0	0	0
+Pame_bac_bin145	0	0	0
+Pame_bac_bin146	0	0	0
+Pame_bac_bin147	0	1	1
+Pame_bac_bin148	0	0	0
+Pame_bac_bin149	3	4	3
+Pame_bac_bin150	3	4	4
+Pame_bac_bin151	2	2	2
+Pame_bac_bin152	2	2	2
+Pame_bac_bin153	0	0	0
+Pame_bac_bin154	0	0	0
+Pame_bac_bin155	1	1	1
+Pame_bac_bin156	0	1	1
+Pame_bac_bin157	0	0	0
+Pame_bac_bin158	0	1	1
+Pame_bac_bin159	1	1	1
+Pame_bac_bin160	1	1	1
+Pame_bac_bin161	1	1	2
+Pame_bac_bin162	2	3	2
+Pame_bac_bin163	2	3	1
+Pame_bac_bin164	2	2	2
+Pame_bac_bin165	0	0	0
+Pame_bac_bin166	2	1	1
+Pame_bac_bin167	1	1	1
+Pame_bac_bin168	0	0	0
+Pame_bac_bin169	2	2	2
+Pame_bac_bin170	1	1	0
+Pame_bac_bin171	0	0	0
+Pame_bac_bin172	1	1	0
+Pame_bac_bin173	1	2	1
+Pame_bac_bin174	2	1	1
+Pame_bac_bin175	2	2	0
+Pame_bac_bin176	1	1	1
+Pame_bac_bin177	1	1	1
+Pame_bac_bin178	0	0	0
+Pame_bac_bin179	1	0	0
+Pame_bac_bin180	3	3	3
+Pame_bac_bin181	2	0	1
+Pame_bac_bin182	3	2	2
+Pame_bac_bin183	1	1	0
+Pame_bac_bin184	1	2	1
+Pame_bac_bin185	1	2	1
+Pame_bac_bin186	2	1	1
+Pame_bac_bin187	3	4	2
+Pame_bac_bin188	2	1	2
+Pame_bac_bin189	4	3	3
+Pame_bac_bin190	4	3	2
+Pame_bac_bin191	2	2	2
+Pame_bac_bin192	1	2	2
+Pame_bac_bin193	3	3	1
+Pame_bac_bin194	3	1	0
+Pame_bac_bin195	4	2	2
+Pame_bac_bin196	3	3	3
+Pame_bac_bin197	1	1	0
+Pame_bac_bin198	2	2	2
+Pame_bac_bin199	1	1	1
+Pame_bac_bin200	1	1	1
+Pame_bac_bin201	1	0	0
+Pame_bac_bin202	1	1	1
+Pame_bac_bin203	0	1	0
+Pame_bac_bin204	0	0	0
+Pame_bac_bin205	3	3	3
+Pame_bac_bin206	4	3	2
+Pame_bac_bin207	2	2	2
+Pame_bac_bin208	0	1	1
+Pame_bac_bin209	2	0	0
+Pame_bac_bin210	1	1	0
+Pame_bac_bin211	0	0	0
+Pame_bac_bin212	3	3	2
+Pame_bac_bin213	0	0	0
+Pame_bac_bin214	0	0	0
+Pame_bac_bin215	2	0	0
+Pame_bac_bin216	0	0	0
+Pame_bac_bin217	2	2	2
+Pame_bac_bin218	0	0	0
+Pame_bac_bin219	0	0	0
+Pame_bac_bin220	1	0	1
+Pame_bac_bin221	2	2	2
+Pame_bac_bin222	1	1	1
+Pame_bac_bin223	5	5	5
+Pame_bac_bin224	1	1	1
+Pame_bac_bin225	2	2	2
+Pame_bac_bin226	3	1	1
+Pame_bac_bin227	5	2	2
+Pame_bac_bin228	3	3	3
+Pame_bac_bin229	4	4	4
+Pame_bac_bin230	1	1	1
+Pame_bac_bin231	0	0	0
+Pame_bac_bin232	0	1	0
+Pame_bac_bin233	1	0	0
+Pame_bac_bin234	1	2	1
+Pame_bac_bin235	1	0	1
+Pame_bac_bin236	1	1	1
+Pame_bac_bin237	0	0	0
+Pame_bac_bin238	3	3	3
+Pame_bac_bin239	2	2	2
+Pame_bac_bin240	1	0	1
+Pame_bac_bin241	3	3	3
+Pame_bac_bin242	0	0	0
+Pame_bac_bin243	1	1	1
+Pame_bac_bin244	4	3	3
+Pame_bac_bin245	1	0	0
+Pame_bac_bin246	1	1	1
+Pame_bac_bin247	1	1	1
+Pame_bac_bin248	1	0	0
+Pame_bac_bin249	2	2	2
+Pame_bac_bin250	1	1	1
+Pame_bac_bin251	1	0	0
+Pame_bac_bin252	1	1	1
+Pame_bac_bin253	0	2	1
+Pame_bac_bin254	0	0	0
+Pame_bac_bin255	0	0	0
+Pame_bac_bin256	0	0	0
+Pame_bac_bin257	1	0	0
+Pame_bac_bin258	2	2	2
+Pame_bac_bin259	2	2	1
+Pame_bac_bin260	0	0	0
+Pame_bac_bin261	1	1	0
+Pame_bac_bin262	2	3	2
+Pame_bac_bin263	1	0	0
+Pame_bac_bin264	1	0	0
+Pame_bac_bin265	0	0	0
+Pame_bac_bin266	2	2	2
+Pame_bac_bin267	2	0	0
+Pame_bac_bin268	0	0	0
+Pame_bac_bin269	0	0	0
+Pame_bac_bin270	2	1	1
+Pame_bac_bin271	2	3	2
+Pame_bac_bin272	3	4	3
+Pame_bac_bin273	3	2	2
+Pame_bac_bin274	1	1	1
+Pame_bac_bin275	2	1	1
+Pame_bac_bin276	4	4	4
+Pame_bac_bin277	3	3	3
+Pame_bac_bin278	2	3	2
+Pame_bac_bin279	3	3	2
+Pame_bac_bin280	2	2	1
+Pame_bac_bin281	2	0	0
+Pame_bac_bin282	2	4	2
+Pame_bac_bin283	3	5	3
+Pame_bac_bin284	2	2	2
+Pame_bac_bin285	3	1	0
+Pame_bac_bin286	1	1	1
+Pame_bac_bin287	1	3	1
+Pame_bac_bin288	3	2	2
+Pame_bac_bin289	0	0	0
+Pame_bac_bin290	0	0	0
+Pame_bac_bin291	2	2	2
+Pame_bac_bin292	3	3	2
+Pame_bac_bin293	0	1	1
+Pame_bac_bin294	1	0	0
+Pame_bac_bin295	2	2	2
+Pame_bac_bin296	2	2	2
+Pame_bac_bin297	0	1	0
+Pame_bac_bin298	3	3	3
+Pame_bac_bin299	0	1	0
+Pame_bac_bin300	2	1	2
+Pame_bac_bin301	1	3	2
+Pame_bac_bin302	0	2	0
+Pame_bac_bin303	0	0	0
+Pame_bac_bin304	2	3	1
+Pame_bac_bin305	2	0	0
+Pame_bac_bin306	2	2	2
+Pame_bac_bin307	0	0	0
+Pame_bac_bin308	1	1	1
+Pame_bac_bin309	1	0	0
+Pame_bac_bin310	1	1	0
+Pame_bac_bin311	1	1	1
+Pame_bac_bin312	2	3	2
+Pame_bac_bin313	2	2	2
+Pame_bac_bin314	0	0	0
+Pame_bac_bin315	0	0	0
+Pame_bac_bin316	0	0	0
+Pame_bac_bin317	2	2	2
+Pame_bac_bin318	1	1	1
+Pame_bac_bin319	0	2	0
+Pame_bac_bin320	2	2	2
+Pame_bac_bin321	1	1	1
+Pame_bac_bin322	1	1	1
+Pame_bac_bin323	3	3	3
+Pame_bac_bin324	5	5	5
+Pame_bac_bin325	0	1	1
+Pame_bac_bin326	1	0	0
+Pame_bac_bin327	0	0	0
+Pame_bac_bin328	0	0	0
+Pame_bac_bin329	2	2	2
+Pame_bac_bin330	2	1	1
+Pame_bac_bin331	0	0	0
+Pame_bac_bin332	0	0	0
+Pame_bac_bin333	1	1	1
+Pame_bac_bin334	2	0	0
+Pame_bac_bin335	0	0	0
+Pame_bac_bin336	0	0	0
+Pame_bac_bin337	1	0	0
+Pame_bac_bin338	3	3	3
+Pame_bac_bin339	1	0	0
+Pame_bac_bin340	1	1	0
+Pame_bac_bin341	3	3	3
+Pame_bac_bin342	0	0	0
+Pame_bac_bin343	0	0	0
+Pame_bac_bin344	1	1	1
+Pame_bac_bin345	1	1	1
+Pame_bac_bin346	0	1	0
+Pame_bac_bin347	1	1	1
+Pame_bac_bin348	0	0	0
+Pame_bac_bin349	2	2	2
+Pame_bac_bin350	1	0	0
+Pame_bac_bin351	1	1	1
+Pame_bac_bin352	0	0	0
+Pame_bac_bin353	0	0	0
+Pame_bac_bin354	1	1	1
+Pame_bac_bin355	0	1	0
+Pame_bac_bin356	0	1	1
+Pame_bac_bin357	1	1	1
+Pame_bac_bin358	0	0	0
+Pame_bac_bin359	2	3	2
+Pame_bac_bin360	0	0	0
+Pame_bac_bin361	2	2	2
+Pame_bac_bin362	0	0	0
+Pame_bac_bin363	1	1	1
+Pame_bac_bin364	3	2	1
+Pame_bac_bin365	2	1	1
+Pame_bac_bin366	0	0	0
+Pame_bac_bin367	0	0	0
+Pame_bac_bin368	1	1	1
+Pame_bac_bin369	0	0	0
+Pame_bac_bin370	0	0	0
+Pame_bac_bin371	2	2	2
+Pame_bac_bin372	1	1	1
+Pame_bac_bin373	1	0	2
+Pame_bac_bin374	0	0	0
+Pame_bac_bin375	0	0	0
+Pame_bac_bin376	1	1	0
+Pame_bac_bin377	0	0	0
+Pame_bac_bin378	0	0	0
+Pame_bac_bin379	0	0	0
+Pame_bac_bin380	1	0	0
+Pame_bac_bin381	1	0	0
+Pame_bac_bin382	1	1	1
+Pame_bac_bin383	1	1	1
+Pame_bac_bin384	1	1	1
+Pame_bac_bin385	2	2	2
+Pame_bac_bin386	1	0	1
+Pame_bac_bin387	1	0	1
+Pame_bac_bin388	0	0	0
+Pame_bac_bin389	1	2	1
+Pame_bac_bin390	0	0	0
+Pame_bac_bin391	3	3	3
+Pame_bac_bin392	3	3	3
+Pame_bac_bin393	2	2	2
+Pame_bac_bin394	6	4	2
+Pame_bac_bin395	0	0	0
+Pame_bac_bin396	5	0	0
+Pame_bac_bin397	1	0	0
+Pame_bac_bin398	6	0	2
+Pame_bac_bin399	4	4	4
+Pame_bac_bin400	1	1	1
+Pame_bac_bin401	1	1	1
+Pame_bac_bin402	1	1	1
+Pame_bac_bin403	0	0	0
+Pame_bac_bin404	0	0	0
+Pame_bac_bin405	0	0	0
+Pame_bac_bin406	0	0	0
+Pame_bac_bin407	1	0	0
+Pame_bac_bin408	2	2	2
+Pame_bac_bin409	0	0	0
+Pame_bac_bin410	0	0	0
+Pame_bac_bin411	0	1	0
+Pame_bac_bin412	3	3	3
+Pame_bac_bin413	2	2	2
+Pame_bac_bin414	1	1	1
+Pame_bac_bin415	0	0	0
+Pame_bac_bin416	4	2	2
+Pful_bac_bin001	3	3	3
+Pful_bac_bin002	0	0	0
+Pful_bac_bin003	0	0	0
+Pful_bac_bin004	0	0	0
+Pful_bac_bin005	1	1	1
+Pful_bac_bin006	0	0	0
+Pful_bac_bin007	1	1	1
+Pful_bac_bin008	0	0	0
+Pful_bac_bin009	0	1	0
+Pful_bac_bin010	0	0	0
+Pful_bac_bin011	3	3	3
+Pful_bac_bin012	2	2	2
+Pful_bac_bin013	1	1	1
+Pful_bac_bin014	3	3	3
+Pful_bac_bin015	3	3	3
+Pful_bac_bin016	2	2	2
+Pful_bac_bin017	3	3	3
+Pful_bac_bin018	2	3	2
+Pful_bac_bin019	2	1	1
+Pful_bac_bin020	2	0	0
+Pful_bac_bin021	3	3	3
+Pful_bac_bin022	1	1	1
+Pful_bac_bin023	2	2	2
+Pful_bac_bin024	3	4	3
+Pful_bac_bin025	1	2	0
+Pful_bac_bin026	2	2	2
+Pful_bac_bin027	1	1	1
+Pful_bac_bin028	1	1	1
+Pful_bac_bin029	2	2	1
+Pful_bac_bin030	0	0	0
+Pful_bac_bin031	3	3	3
+Pful_bac_bin032	0	1	0
+Pful_bac_bin033	0	0	0
+Pful_bac_bin034	3	2	1
+Pful_bac_bin035	1	2	2
+Pful_bac_bin036	1	0	2
+Pful_bac_bin037	1	2	1
+Pful_bac_bin038	1	1	1
+Pful_bac_bin039	0	0	0
+Pful_bac_bin040	3	2	2
+Pful_bac_bin041	3	1	1
+Pful_bac_bin042	3	4	4
+Pful_bac_bin043	3	2	2
+Pful_bac_bin044	3	2	2
+Pful_bac_bin045	5	3	3
+Pful_bac_bin046	1	2	2
+Pful_bac_bin047	2	2	1
+Pful_bac_bin048	3	4	5
+Pful_bac_bin049	1	4	6
+Pful_bac_bin050	1	1	1
+Pful_bac_bin051	3	4	4
+Pful_bac_bin052	4	4	3
+Pful_bac_bin053	2	3	1
+Pful_bac_bin054	4	4	4
+Pful_bac_bin055	3	3	3
+Pful_bac_bin056	3	3	2
+Pful_bac_bin057	3	3	1
+Pful_bac_bin058	2	3	2
+Pful_bac_bin059	3	3	3
+Pful_bac_bin060	2	2	2
+Pful_bac_bin061	0	0	0
+Pful_bac_bin062	4	3	4
+Pful_bac_bin063	3	3	3
+Pful_bac_bin064	1	2	0
+Pful_bac_bin065	3	2	3
+Pful_bac_bin066	0	0	0
+Pful_bac_bin067	4	4	3
+Pful_bac_bin068	4	4	4
+Pful_bac_bin069	2	2	2
+Pful_bac_bin070	0	0	0
+Pful_bac_bin071	4	3	3
+Pful_bac_bin072	4	4	3
+Pful_bac_bin073	4	4	3
+Pful_bac_bin074	6	6	6
+Pful_bac_bin075	0	2	1
+Pful_bac_bin076	2	2	1
+Pful_bac_bin077	2	2	2
+Pful_bac_bin078	8	1	1
+Pful_bac_bin079	1	1	1
+Pful_bac_bin080	2	1	2
+Pful_bac_bin081	1	1	1
+Pful_bac_bin082	3	3	3
+Pful_bac_bin083	3	3	3
+Pful_bac_bin084	0	0	0
+Pful_bac_bin085	4	3	3
+Pful_bac_bin086	3	3	3
+Pful_bac_bin087	1	1	1
+Pful_bac_bin088	4	3	2
+Pful_bac_bin089	3	1	0
+Pful_bac_bin090	0	1	1
+Pful_bac_bin091	0	0	0
+Pful_bac_bin092	2	2	2
+Pful_bac_bin093	0	0	0
+Pful_bac_bin094	0	0	0
+Pful_bac_bin095	2	2	2
+Pful_bac_bin096	0	0	0
+Pful_bac_bin097	1	0	1
+Pful_bac_bin098	0	0	0
+Pful_bac_bin099	2	1	2
+Pful_bac_bin100	0	0	0
+Pful_bac_bin101	0	0	0
+Pful_bac_bin102	0	0	0
+Pful_bac_bin103	1	2	1
+Pful_bac_bin104	0	0	0
+Pful_bac_bin105	0	0	0
+Pful_bac_bin106	1	1	1
+Pful_bac_bin107	0	0	0
+Pful_bac_bin108	0	0	0
+Pful_bac_bin109	0	0	0
+Pful_bac_bin110	1	1	1
+Pful_bac_bin111	1	1	1
+Pful_bac_bin112	1	1	1
+Pful_bac_bin113	2	1	1
+Pful_bac_bin114	0	0	0
+Pful_bac_bin115	1	1	1
+Pful_bac_bin116	3	2	2
+Pful_bac_bin117	0	0	0
+Pful_bac_bin118	0	0	0
+Pful_bac_bin119	2	2	2
+Pful_bac_bin120	2	1	1
+Pful_bac_bin121	2	2	2
+Pful_bac_bin122	0	1	0
+Pful_bac_bin123	0	0	0
+Pful_bac_bin124	2	2	2
+Pful_bac_bin125	0	0	0
+Pful_bac_bin126	0	0	0
+Pful_bac_bin127	1	1	1
+Pful_bac_bin128	0	0	0
+Pful_bac_bin129	2	2	2
+Pful_bac_bin130	1	1	1
+Pful_bac_bin131	14	14	14
+Pful_bac_bin132	4	3	4
+Pful_bac_bin133	0	0	0
+Pful_bac_bin134	2	2	2
+Pful_bac_bin135	4	4	4
+Pful_bac_bin136	5	5	5
+Pful_bac_bin137	0	1	0
+Pful_bac_bin138	4	4	4
+Pful_bac_bin139	3	3	3
+Pful_bac_bin140	3	3	3
+Pful_bac_bin141	1	0	0
+Pful_bac_bin142	5	1	1
+Pful_bac_bin143	1	1	1
+Pful_bac_bin144	3	3	3
+Pful_bac_bin145	3	3	3
+Pful_bac_bin146	5	5	5
+Pful_bac_bin147	2	2	2
+Pful_bac_bin148	5	5	5
+Pful_bac_bin149	0	0	0
+Pful_bac_bin150	3	3	3
+Pful_bac_bin151	5	4	4
+Pful_bac_bin152	6	6	6
+Pful_bac_bin153	5	5	5
+Pful_bac_bin154	4	5	5
+Pful_bac_bin155	5	5	5
+Pful_bac_bin156	2	2	2
+Pful_bac_bin157	0	0	0
+Pful_bac_bin158	0	0	0
+Pful_bac_bin159	1	1	1
+Pful_bac_bin160	2	2	2
+Pful_bac_bin161	2	2	2
+Pful_bac_bin162	0	0	0
+Pful_bac_bin163	2	2	2
+Pful_bac_bin164	2	1	1
+Pful_bac_bin165	3	3	3
+Pful_bac_bin166	1	0	0
+Pful_bac_bin167	0	0	0
+Pful_bac_bin168	1	1	1
+Pful_bac_bin169	2	2	2
+Pful_bac_bin170	2	2	2
+Pful_bac_bin171	0	0	0
+Pful_bac_bin172	3	3	3
+Pful_bac_bin173	0	0	0
+Pful_bac_bin174	1	1	1
+Pful_bac_bin175	1	1	1
+Pful_bac_bin176	2	2	2
+Pful_bac_bin177	0	0	0
+Pful_bac_bin178	1	1	1
+Pful_bac_bin179	1	1	1
+Pful_bac_bin180	1	1	1
+Pful_bac_bin181	1	1	1
+Pful_bac_bin182	0	1	0
+Pful_bac_bin183	1	1	1
+Pful_bac_bin184	0	1	0
+Pful_bac_bin185	3	1	3
+Pful_bac_bin186	1	1	1
+Pful_bac_bin187	3	3	3
+Pful_bac_bin188	1	1	1
+Pful_bac_bin189	2	2	2
+Pful_bac_bin190	3	2	3
+Pful_bac_bin191	2	2	1
+Pful_bac_bin192	0	0	0
+Pful_bac_bin193	3	3	3
+Pful_bac_bin194	2	2	2
+Pful_bac_bin195	1	1	1
+Pful_bac_bin196	4	3	3
+Pful_bac_bin197	4	4	4
+Pful_bac_bin198	2	2	2
+Pful_bac_bin199	3	3	3
+Pful_bac_bin200	2	2	1
+Pful_bac_bin201	2	3	2
+Pful_bac_bin202	1	1	1
+Pful_bac_bin203	0	2	0
+Pful_bac_bin204	0	3	0
+Pful_bac_bin205	4	4	4
+Pful_bac_bin206	3	4	3
+Pful_bac_bin207	3	2	2
+Pful_bac_bin208	2	3	2
+Pful_bac_bin209	2	2	1
+Pful_bac_bin210	5	4	4
+Pful_bac_bin211	5	5	5
+Pful_bac_bin212	3	3	3
+Pful_bac_bin213	3	3	3
+Pful_bac_bin214	3	3	3
+Pful_bac_bin215	4	4	4
+Pful_bac_bin216	4	4	4
+Pful_bac_bin217	1	1	1
+Pful_bac_bin218	2	1	0
+Pful_bac_bin219	1	2	1
+Pful_bac_bin220	1	3	1
+Pful_bac_bin221	1	2	1
+Pful_bac_bin222	3	1	1
+Pful_bac_bin223	4	3	3
+Pful_bac_bin224	2	2	1
+Pful_bac_bin225	1	3	2
+Pful_bac_bin226	2	3	1
+Pful_bac_bin227	2	3	1
+Pful_bac_bin228	4	4	4
+Pful_bac_bin229	2	2	0
+Pful_bac_bin230	4	5	3
+Pful_bac_bin231	4	3	2
+Pful_bac_bin232	4	4	4
+Pful_bac_bin233	4	3	2
+Pful_bac_bin234	2	4	1
+Pful_bac_bin235	4	4	4
+Pful_bac_bin236	2	2	2
+Pful_bac_bin237	4	4	4
+Pful_bac_bin238	3	4	4
+Pful_bac_bin239	2	2	2
+Pful_bac_bin240	4	4	4
+Pful_bac_bin241	5	5	5
+Pful_bac_bin242	4	4	3
+Pful_bac_bin243	2	4	1
+Pful_bac_bin244	1	0	0
+Pful_bac_bin245	5	4	4
+Pful_bac_bin246	1	1	1
+Pful_bac_bin247	2	2	2
+Pful_bac_bin248	1	1	1
+Pful_bac_bin249	1	1	1
+Pful_bac_bin250	1	0	0
+Pful_bac_bin251	2	2	2
+Pful_bac_bin252	2	2	2
+Pful_bac_bin253	3	3	3
+Pful_bac_bin254	1	2	1
+Pful_bac_bin255	2	2	2
+Pful_bac_bin256	0	1	1
+Pful_bac_bin257	2	2	2
+Pful_bac_bin258	2	1	1
+Pful_bac_bin259	2	2	2
+Pful_bac_bin260	1	1	1
+Pful_bac_bin261	1	1	0
+Pful_bac_bin262	3	2	3
+Pful_bac_bin263	3	3	3
+Pful_bac_bin264	2	2	2
+Pful_bac_bin265	3	3	3
+Pful_bac_bin266	3	3	3
+Pful_bac_bin267	3	3	3
+Pful_bac_bin268	3	3	3
+Pful_bac_bin269	3	2	2
+Pful_bac_bin270	0	0	0
+Pful_bac_bin271	2	2	2
+Pful_bac_bin272	2	1	1
+Pful_bac_bin273	0	1	0
+Pful_bac_bin274	2	2	2
+Pful_bac_bin275	1	0	0
+Pful_bac_bin276	0	0	0
+Pful_bac_bin277	1	1	1
+Pful_bac_bin278	1	2	2
+Pful_bac_bin279	3	2	2
+Pful_bac_bin280	2	2	2
+Pful_bac_bin281	2	3	2
+Pful_bac_bin282	2	2	2
+Pful_bac_bin283	1	1	1
+Pful_bac_bin284	1	1	1
+Pful_bac_bin285	2	2	2
+Pful_bac_bin286	0	0	0
+Pful_bac_bin287	0	0	0
+Pful_bac_bin288	3	2	2
+Pful_bac_bin289	2	2	2
+Pful_bac_bin290	1	1	1
+Pful_bac_bin291	2	2	2
+Pful_bac_bin292	1	1	1
+Pful_bac_bin293	0	1	0
+Pful_bac_bin294	0	0	0
+Pful_bac_bin295	2	2	2
+Pful_bac_bin296	2	2	2
+Pful_bac_bin297	2	2	2
+Pful_bac_bin298	2	3	2
+Pful_bac_bin299	2	2	2
+Pful_bac_bin300	1	1	0
+Pful_bac_bin301	0	0	0
+Pful_bac_bin302	0	2	0
+Pful_bac_bin303	2	2	2
+Pful_bac_bin304	0	1	0
+Pful_bac_bin305	3	1	1
+Pful_bac_bin306	1	1	1
+Pful_bac_bin307	2	2	2
+Pful_bac_bin308	0	0	0
+Pful_bac_bin309	1	0	0
+Pful_bac_bin310	1	1	1
+Pful_bac_bin311	2	2	2
+Pful_bac_bin312	2	2	2
+Pful_bac_bin313	1	1	1
+Pful_bac_bin314	0	2	0
+Pful_bac_bin315	2	2	2
+Pful_bac_bin316	2	2	2
+Pful_bac_bin317	4	4	4
+Pful_bac_bin318	1	1	0
+Pful_bac_bin319	1	1	1
+Pful_bac_bin320	2	2	2
+Pful_bac_bin321	2	0	1
+Pful_bac_bin322	4	5	2
+Pful_bac_bin323	5	4	4
+Pful_bac_bin324	4	4	4
+Pful_bac_bin325	4	5	4
+Pful_bac_bin326	5	3	4
+Pful_bac_bin327	5	5	5
+Pful_bac_bin328	2	4	2
+Pful_bac_bin329	1	2	1
+Pful_bac_bin330	3	3	3
+Pful_bac_bin331	2	1	2
+Pful_bac_bin332	1	3	1
+Pful_bac_bin333	2	2	2
+Pful_bac_bin334	2	2	2
+Pful_bac_bin335	4	4	4
+Pful_bac_bin336	5	5	5
+Pful_bac_bin337	4	3	3
+Pful_bac_bin338	2	2	2
+Pful_bac_bin339	4	4	4
+Pful_bac_bin340	4	3	3
+Pful_bac_bin341	4	4	4
+Pful_bac_bin342	2	3	2
+Pful_bac_bin343	5	5	5
+Pful_bac_bin344	2	2	2
+Pful_bac_bin345	3	4	3
+Pful_bac_bin346	1	1	1
+Pful_bac_bin347	1	1	1
+Pful_bac_bin348	1	1	1
+Pful_bac_bin349	2	2	2
+Pful_bac_bin350	2	2	2
+Pful_bac_bin351	1	1	1
+Pful_bac_bin352	1	1	1
+Pful_bac_bin353	2	2	2
+Pful_bac_bin354	2	2	2
+Pful_bac_bin355	2	2	2
+Pful_bac_bin356	3	3	3
+Pful_bac_bin357	1	1	1
+Pful_bac_bin358	2	2	2
+Pful_bac_bin359	2	2	2
+Pful_bac_bin360	1	1	0
+Pful_bac_bin361	2	2	2
+Pful_bac_bin362	3	3	3
+Pful_bac_bin363	2	2	2
+Pful_bac_bin364	2	2	2
+Pful_bac_bin365	2	0	1
+Pful_bac_bin366	1	0	1
+Pful_bac_bin367	2	2	2
+Pful_bac_bin368	2	2	2
+Pful_bac_bin369	2	2	2
+Pful_bac_bin370	2	2	2
+Pful_bac_bin371	2	0	2
+Pful_bac_bin372	1	0	1
+Pful_bac_bin373	1	1	1
+Pful_bac_bin374	1	1	1
+Pful_bac_bin375	2	2	2
+Pful_bac_bin376	1	1	1
+Pful_bac_bin377	1	3	4
+Pful_bac_bin378	2	2	2
+Pful_bac_bin379	1	0	0
+Pful_bac_bin380	1	1	1
+Pful_bac_bin381	1	2	0
+Pful_bac_bin382	0	0	0
+Pful_bac_bin383	2	2	2
+Pful_bac_bin384	0	2	2
+Pful_bac_bin385	1	1	1
+Pful_bac_bin386	2	2	2
+Pful_bac_bin387	1	1	1
+Pful_bac_bin388	0	0	0
+Pful_bac_bin389	0	0	0
+Pful_bac_bin390	0	0	0
+Pful_bac_bin391	1	1	0
+Pful_bac_bin392	1	1	1
+Pful_bac_bin393	1	1	1
+Pful_bac_bin394	3	2	2
+Pful_bac_bin395	2	2	1
+Pful_bac_bin396	0	1	0
+Pful_bac_bin397	1	2	1
+Pful_bac_bin398	1	1	1
+Pful_bac_bin399	3	3	0
+Pful_bac_bin400	1	1	0
+Pful_bac_bin401	1	2	1
+Pful_bac_bin402	3	3	4
+Pful_bac_bin403	1	4	1
+Pful_bac_bin404	1	1	0
+Pful_bac_bin405	0	1	0
+Pful_bac_bin406	1	2	0
+Pful_bac_bin407	0	1	0
+Pful_bac_bin408	2	3	3
+Pful_bac_bin409	0	0	0
+Pful_bac_bin410	2	1	1
+Pful_bac_bin411	1	2	1
+Pful_bac_bin412	1	1	1
+Pful_bac_bin413	1	1	1
+Pful_bac_bin414	1	1	1
+Pful_bac_bin415	1	1	1
+Pful_bac_bin416	0	0	0
+Pful_bac_bin417	1	1	1
+Pful_bac_bin418	1	1	1
+Pful_bac_bin419	4	4	4
+Pful_bac_bin420	3	2	3
+Pful_bac_bin421	2	2	2
+Pful_bac_bin422	0	0	0
+Pful_bac_bin423	8	7	7
+Pful_bac_bin424	4	4	4
+Pful_bac_bin425	0	0	0
+Pful_bac_bin426	1	0	0
+Pful_bac_bin427	1	0	0
+Pful_bac_bin428	1	1	1
+Pful_bac_bin429	1	0	0
+Pful_bac_bin430	0	0	0
+Pful_bac_bin431	1	1	1
+Pful_bac_bin432	0	0	1
+Pful_bac_bin433	0	1	0
+Pful_bac_bin434	1	1	1
+Pful_bac_bin435	0	0	0
+Pful_bac_bin436	1	1	1
+Pful_bac_bin437	1	1	1
+Pful_bac_bin438	1	1	1
+Pful_bac_bin439	1	1	1
+Pful_bac_bin440	1	1	1
+Pful_bac_bin441	1	0	1
+Pful_bac_bin442	0	0	0
+Pful_bac_bin443	1	1	1
+Pful_bac_bin444	0	1	0
+Pful_bac_bin445	2	3	4
+Pful_bac_bin446	1	1	0
+Pful_bac_bin447	1	1	1
+Pful_bac_bin448	1	1	1
+Pful_bac_bin449	1	1	1
+Pful_bac_bin450	2	2	2
+Pful_bac_bin451	1	2	1
+Pful_bac_bin452	0	1	1
+Pful_bac_bin453	0	0	0
+Pful_bac_bin454	2	2	2
+Pful_bac_bin455	2	2	2
+Pful_bac_bin456	2	2	2
+Pful_bac_bin457	2	2	2
+Pful_bac_bin458	2	2	2
+Pful_bac_bin459	1	1	1
+Pful_bac_bin460	2	2	2
+Pful_bac_bin461	3	3	3
+Pful_bac_bin462	2	2	2
+Pful_bac_bin463	1	1	1
+Pful_bac_bin464	1	1	1
+Pful_bac_bin465	1	0	0
+Pful_bac_bin466	1	1	1
+Pful_bac_bin467	0	0	0
+Pful_bac_bin468	1	1	1
+Pful_bac_bin469	1	1	1
+Pful_bac_bin470	1	2	2
+Pful_bac_bin471	1	1	1
+Pful_bac_bin472	0	0	0
+Pful_bac_bin473	11	10	10
+Pful_bac_bin474	6	5	5
+Pful_bac_bin475	10	8	8
+Pful_bac_bin476	2	1	1
+Pful_bac_bin477	2	2	2
+Pful_bac_bin478	3	2	3
+Pful_bac_bin479	2	1	2
+Pful_bac_bin480	2	2	2
+Pful_bac_bin481	0	1	0
+Pful_bac_bin482	1	1	1
+Pful_bac_bin483	0	0	0
+Pful_bac_bin484	1	1	1
+Pful_bac_bin485	2	2	2
+Pful_bac_bin486	1	1	1
+Pful_bac_bin487	2	2	2
+Pful_bac_bin488	2	3	2
+Pful_bac_bin489	0	0	0
+Pful_bac_bin490	1	1	1
+Pful_bac_bin491	3	3	3
+Pful_bac_bin492	4	4	4
+Pful_bac_bin493	3	3	3
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		1	2	1	
+		0	3	1	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		3	1	1	
+		0	1	0	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	1	1	
+		1	1	0	
+		0	0	0	
+		2	3	0	
+		1	2	1	
+		0	0	0	
+		1	1	0	
+		0	0	0	
+		0	2	1	
+		2	1	1	
+		1	1	1	
+		5	3	1	
+		0	0	0	
+		2	1	1	
+		0	2	0	
+		1	3	2	
+		1	3	1	
+		2	3	2	
+		0	1	0	
+		1	1	0	
+		0	1	0	
+		1	2	1	
+		3	1	1	
+		0	2	0	
+		0	1	0	
+		0	2	0	
+		0	0	0	
+		0	0	0	
+		0	2	0	
+		3	3	1	
+		1	0	0	
+		0	0	0	
+		0	0	0	
+		3	2	1	
+		0	1	0	
+		2	2	1	
+		0	1	0	
+		1	1	0	
+		1	3	2	
+		2	5	1	
+		1	0	0	
+		2	2	0	
+		1	2	1	
+		3	3	1	
+		0	0	0	
+		1	2	0	
+		0	1	0	
+		1	2	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		1	2	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		2	1	1	
+		1	1	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		1	0	0	
+		1	2	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	4	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	2	2	
+		0	2	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	0	
+		1	1	0	
+		0	0	0	
+		0	2	1	
+		0	1	1	
+		0	4	1	
+		0	2	0	
+		0	2	0	
+		1	2	0	
+		1	0	0	
+		2	1	1	
+		2	4	1	
+		1	3	1	
+		0	3	0	
+		2	1	0	
+		0	0	0	
+		2	3	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		1	0	0	
+		0	1	0	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		0	2	0	
+		0	3	0	
+		0	1	0	
+		0	3	0	
+		1	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	2	1	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	1	0	
+		0	0	0	
+		0	1	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		1	2	1	
+		1	1	1	
+		0	1	1	
+		0	1	0	
+		1	1	0	
+		1	2	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		1	1	0	
+		0	0	0	
+		0	2	0	
+		0	0	0	
+		0	0	0	
+		1	1	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		1	1	0	
+		3	1	2	
+		0	0	0	
+		0	0	0	
+		0	2	0	
+		1	1	1	
+		2	2	2	
+		0	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		1	1	1	
+		1	3	1	
+		0	2	0	
+		2	1	2	
+		3	2	2	
+		1	1	1	
+		0	1	0	
+		3	3	3	
+		1	2	1	
+		3	3	3	
+		1	2	1	
+		1	2	1	
+		3	4	3	
+		1	1	1	
+		2	1	2	
+		2	2	2	
+		2	1	1	
+		0	1	1	
+		2	2	2	
+		1	1	1	
+		1	0	1	
+		2	2	2	
+		0	0	0	
+		1	1	1	
+		2	1	1	
+		1	1	1	
+		2	1	1	
+		1	0	1	
+		2	2	2	
+		2	3	3	
+		0	2	1	
+		2	1	1	
+		2	1	0	
+		2	2	1	
+		2	1	1	
+		1	0	1	
+		2	1	1	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		1	2	0	
+		1	0	1	
+		2	2	1	
+		1	1	0	
+		0	1	1	
+		1	1	1	
+		1	1	1	
+		1	2	1	
+		2	1	1	
+		1	1	0	
+		1	1	1	
+		1	0	0	
+		0	1	1	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		2	3	3	
+		2	3	1	
+		2	2	2	
+		4	3	1	
+		3	2	1	
+		7	7	7	
+		4	4	4	
+		1	1	0	
+		3	3	3	
+		1	2	1	
+		4	4	4	
+		6	5	4	
+		2	2	2	
+		3	3	3	
+		4	4	4	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		2	1	1	
+		3	3	1	
+		4	4	4	
+		4	4	4	
+		0	0	0	
+		1	1	2	
+		2	2	2	
+		3	3	3	
+		1	0	1	
+		0	0	0	
+		2	2	2	
+		2	3	2	
+		0	1	0	
+		0	0	0	
+		1	0	0	
+		1	2	1	
+		0	0	0	
+		1	0	1	
+		1	0	0	
+		1	0	1	
+		1	1	1	
+		2	2	2	
+		2	1	2	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	1	1	
+		0	0	0	
+		0	0	0	
+		2	4	2	
+		0	0	1	
+		1	1	1	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		2	1	1	
+		1	1	0	
+		2	2	2	
+		1	0	0	
+		1	0	0	
+		2	2	2	
+		1	2	0	
+		1	1	0	
+		2	3	3	
+		2	2	2	
+		2	2	2	
+		2	1	1	
+		2	2	2	
+		1	1	1	
+		1	0	0	
+		3	4	3	
+		2	1	0	
+		0	0	0	
+		1	1	1	
+		1	0	0	
+		0	0	0	
+		1	1	1	
+		2	1	1	
+		1	2	1	
+		3	2	2	
+		4	4	4	
+		3	2	3	
+		0	3	0	
+		3	3	3	
+		3	3	1	
+		1	0	0	
+		0	3	0	
+		1	3	1	
+		3	3	3	
+		3	4	3	
+		1	1	1	
+		1	2	2	
+		2	2	1	
+		0	0	0	
+		0	0	1	
+		0	0	0	
+		1	2	1	
+		1	2	2	
+		1	1	1	
+		2	2	2	
+		4	5	4	
+		14	14	14	
+		0	0	0	
+		1	1	1	
+		1	0	0	
+		0	0	0	
+		1	0	0	
+		2	3	1	
+		2	1	1	
+		4	5	4	
+		1	0	1	
+		1	2	1	
+		0	1	0	
+		4	4	4	
+		4	4	4	
+		0	1	0	
+		0	0	0	
+		3	5	3	
+		4	5	4	
+		0	0	0	
+		0	0	0	
+		1	2	1	
+		4	4	2	
+		5	5	4	
+		0	1	1	
+		1	1	1	
+		4	4	4	
+		4	4	4	
+		0	0	0	
+		2	3	2	
+		4	4	4	
+		2	1	1	
+		2	3	2	
+		6	5	6	
+		3	2	3	
+		2	1	1	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		1	2	1	
+		2	2	2	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		0	0	0	
+		2	1	1	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		2	2	1	
+		2	1	1	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		2	2	2	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		3	2	2	
+		1	0	0	
+		1	1	1	
+		2	2	2	
+		3	4	3	
+		2	2	2	
+		2	2	2	
+		3	4	3	
+		2	2	2	
+		3	2	2	
+		2	2	1	
+		3	2	2	
+		3	3	3	
+		2	1	1	
+		4	2	2	
+		3	2	2	
+		0	0	0	
+		2	2	2	
+		2	1	1	
+		2	2	2	
+		1	2	1	
+		1	2	1	
+		2	2	2	
+		2	2	1	
+		3	3	3	
+		1	3	1	
+		2	2	2	
+		2	2	2	
+		3	3	2	
+		3	4	3	
+		3	3	3	
+		2	1	0	
+		1	3	1	
+		1	2	1	
+		3	3	1	
+		4	5	4	
+		1	4	1	
+		2	3	2	
+		4	4	4	
+		3	3	3	
+		1	1	1	
+		3	3	3	
+		3	4	3	
+		3	3	3	
+		2	2	2	
+		0	0	0	
+		2	3	3	
+		2	2	2	
+		0	0	0	
+		1	3	3	
+		0	0	0	
+		2	2	2	
+		1	1	1	
+		1	1	0	
+		0	1	1	
+		1	2	2	
+		2	2	2	
+		2	1	1	
+		1	2	1	
+		2	2	2	
+		2	1	2	
+		2	2	2	
+		1	1	1	
+		1	0	0	
+		1	1	1	
+		1	1	0	
+		1	1	1	
+		0	2	2	
+		1	2	1	
+		1	1	1	
+		2	2	2	
+		3	4	3	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		0	2	1	
+		1	2	1	
+		0	0	0	
+		2	1	1	
+		1	0	0	
+		2	2	2	
+		1	1	0	
+		2	2	1	
+		1	2	1	
+		2	2	2	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		2	4	1	
+		3	4	4	
+		3	2	2	
+		0	1	0	
+		1	2	1	
+		3	4	3	
+		5	5	4	
+		2	5	1	
+		3	4	3	
+		2	2	2	
+		0	0	0	
+		4	2	3	
+		3	3	3	
+		1	3	3	
+		3	4	2	
+		2	3	3	
+		3	3	3	
+		3	3	3	
+		3	3	3	
+		3	3	3	
+		3	2	3	
+		1	2	2	
+		3	2	2	
+		0	2	0	
+		2	1	1	
+		2	3	2	
+		2	2	2	
+		3	3	1	
+		2	4	4	
+		2	2	2	
+		1	2	1	
+		2	2	2	
+		2	2	2	
+		1	1	1	
+		0	0	0	
+		1	0	1	
+		6	5	5	
+		1	1	1	
+		0	1	1	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		0	1	1	
+		0	1	0	
+		1	1	1	
+		3	3	3	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	0	
+		0	0	0	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		3	2	2	
+		1	0	0	
+		2	2	2	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		3	1	0	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		1	1	0	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		1	0	1	
+		2	2	2	
+		1	1	1	
+		2	1	0	
+		1	1	0	
+		2	2	2	
+		2	3	3	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		1	1	1	
+		0	2	0	
+		2	2	2	
+		3	3	3	
+		2	1	2	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		4	4	4	
+		1	1	0	
+		1	0	0	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		3	3	3	
+		3	3	3	
+		3	3	3	
+		3	2	2	
+		1	2	2	
+		4	4	4	
+		2	2	2	
+		1	1	1	
+		0	1	0	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		1	1	1	
+		1	2	1	
+		3	3	3	
+		1	0	0	
+		1	1	1	
+		1	0	1	
+		0	1	0	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		0	0	0	
+		1	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		2	2	1	
+		5	5	5	
+		0	1	0	
+		4	6	4	
+		2	2	1	
+		4	4	4	
+		2	3	2	
+		4	5	4	
+		2	3	2	
+		3	3	2	
+		1	1	1	
+		0	1	0	
+		0	0	0	
+		5	3	3	
+		2	2	2	
+		1	0	0	
+		1	1	1	
+		1	0	0	
+		4	2	2	
+		3	3	3	
+		2	2	2	
+		2	5	2	
+		2	4	5	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	1	1	
+		4	4	2	
+		2	1	2	
+		0	0	0	
+		2	0	1	
+		4	2	2	
+		1	0	0	
+		1	1	1	
+		0	0	0	
+		2	2	1	
+		0	0	0	
+		1	0	0	
+		1	1	1	
+		0	1	1	
+		1	0	0	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		1	2	2	
+		2	1	1	
+		3	1	1	
+		1	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		1	0	0	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		4	4	4	
+		3	3	2	
+		1	1	1	
+		1	1	1	
+		3	2	4	
+		3	3	1	
+		3	3	3	
+		4	4	4	
+		1	1	1	
+		2	2	3	
+		2	2	3	
+		3	3	3	
+		2	1	1	
+		0	0	0	
+		2	1	2	
+		1	1	1	
+		1	0	1	
+		0	0	0	
+		2	2	1	
+		1	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		2	2	2	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	0	0	
+		0	0	0	
+		3	3	3	
+		2	1	1	
+		0	0	0	
+		1	0	1	
+		0	0	0	
+		0	0	0	
+		1	3	3	
+		0	0	0	
+		0	0	0	
+		3	2	2	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		3	3	3	
+		0	0	0	
+		1	1	1	
+		1	1	0	
+		0	0	0	
+		0	0	0	
+		2	2	3	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		3	2	3	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	0	1	
+		0	0	0	
+		4	3	3	
+		4	3	4	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		1	0	1	
+		0	0	0	
+		1	0	1	
+		1	1	1	
+		1	1	1	
+		1	1	2	
+		3	2	2	
+		3	2	1	
+		2	2	2	
+		0	0	0	
+		1	2	1	
+		1	1	1	
+		0	0	0	
+		2	2	2	
+		1	1	0	
+		0	0	0	
+		1	1	0	
+		2	1	1	
+		1	2	1	
+		2	2	0	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		0	1	0	
+		3	3	3	
+		0	2	1	
+		2	3	2	
+		1	1	0	
+		2	1	1	
+		2	1	1	
+		1	2	1	
+		4	3	2	
+		1	2	2	
+		3	4	3	
+		3	4	2	
+		2	2	2	
+		2	1	2	
+		3	3	1	
+		1	3	0	
+		2	4	2	
+		3	3	3	
+		1	1	0	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		1	1	1	
+		1	0	0	
+		0	0	0	
+		3	3	3	
+		3	4	2	
+		2	2	2	
+		1	0	1	
+		0	2	0	
+		1	1	0	
+		0	0	0	
+		3	3	2	
+		0	0	0	
+		0	0	0	
+		0	2	0	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		0	1	1	
+		2	2	2	
+		1	1	1	
+		5	5	5	
+		1	1	1	
+		2	2	2	
+		1	3	1	
+		2	5	2	
+		3	3	3	
+		4	4	4	
+		1	1	1	
+		0	0	0	
+		1	0	0	
+		0	1	0	
+		2	1	1	
+		0	1	1	
+		1	1	1	
+		0	0	0	
+		3	3	3	
+		2	2	2	
+		0	1	1	
+		3	3	3	
+		0	0	0	
+		1	1	1	
+		3	4	3	
+		0	1	0	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		2	2	2	
+		1	1	1	
+		0	1	0	
+		1	1	1	
+		2	0	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		2	2	2	
+		2	2	1	
+		0	0	0	
+		1	1	0	
+		3	2	2	
+		0	1	0	
+		0	1	0	
+		0	0	0	
+		2	2	2	
+		0	2	0	
+		0	0	0	
+		0	0	0	
+		1	2	1	
+		3	2	2	
+		4	3	3	
+		2	3	2	
+		1	1	1	
+		1	2	1	
+		4	4	4	
+		3	3	3	
+		3	2	2	
+		3	3	2	
+		2	2	1	
+		0	2	0	
+		4	2	2	
+		5	3	3	
+		2	2	2	
+		1	3	0	
+		1	1	1	
+		3	1	1	
+		2	3	2	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		3	3	2	
+		1	0	1	
+		0	1	0	
+		2	2	2	
+		2	2	2	
+		1	0	0	
+		3	3	3	
+		1	0	0	
+		1	2	2	
+		3	1	2	
+		2	0	0	
+		0	0	0	
+		3	2	1	
+		0	2	0	
+		2	2	2	
+		0	0	0	
+		1	1	1	
+		0	1	0	
+		1	1	0	
+		1	1	1	
+		3	2	2	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		1	1	1	
+		2	0	0	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		3	3	3	
+		5	5	5	
+		1	0	1	
+		0	1	0	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		1	2	1	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	2	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		3	3	3	
+		0	1	0	
+		1	1	0	
+		3	3	3	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		1	0	0	
+		1	1	1	
+		0	0	0	
+		2	2	2	
+		0	1	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		1	0	0	
+		1	0	1	
+		1	1	1	
+		0	0	0	
+		3	2	2	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		1	1	1	
+		2	3	1	
+		1	2	1	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		1	1	1	
+		0	1	2	
+		0	0	0	
+		0	0	0	
+		1	1	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		0	1	1	
+		0	1	1	
+		0	0	0	
+		2	1	1	
+		0	0	0	
+		3	3	3	
+		3	3	3	
+		2	2	2	
+		4	6	2	
+		0	0	0	
+		0	5	0	
+		0	1	0	
+		0	6	2	
+		4	4	4	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		0	1	0	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		1	0	0	
+		3	3	3	
+		2	2	2	
+		1	1	1	
+		0	0	0	
+		2	4	2	
+		3	3	3	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		1	0	0	
+		0	0	0	
+		3	3	3	
+		2	2	2	
+		1	1	1	
+		3	3	3	
+		3	3	3	
+		2	2	2	
+		3	3	3	
+		3	2	2	
+		1	2	1	
+		0	2	0	
+		3	3	3	
+		1	1	1	
+		2	2	2	
+		4	3	3	
+		2	1	0	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		2	2	1	
+		0	0	0	
+		3	3	3	
+		1	0	0	
+		0	0	0	
+		2	3	1	
+		2	1	2	
+		0	1	2	
+		2	1	1	
+		1	1	1	
+		0	0	0	
+		2	3	2	
+		1	3	1	
+		4	3	4	
+		2	3	2	
+		2	3	2	
+		3	5	3	
+		2	1	2	
+		2	2	1	
+		4	3	5	
+		4	1	6	
+		1	1	1	
+		4	3	4	
+		4	4	3	
+		3	2	1	
+		4	4	4	
+		3	3	3	
+		3	3	2	
+		3	3	1	
+		3	2	2	
+		3	3	3	
+		2	2	2	
+		0	0	0	
+		3	4	4	
+		3	3	3	
+		2	1	0	
+		2	3	3	
+		0	0	0	
+		4	4	3	
+		4	4	4	
+		2	2	2	
+		0	0	0	
+		3	4	3	
+		4	4	3	
+		4	4	3	
+		6	6	6	
+		2	0	1	
+		2	2	1	
+		2	2	2	
+		1	8	1	
+		1	1	1	
+		1	2	2	
+		1	1	1	
+		3	3	3	
+		3	3	3	
+		0	0	0	
+		3	4	3	
+		3	3	3	
+		1	1	1	
+		3	4	2	
+		1	3	0	
+		1	0	1	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		0	1	1	
+		0	0	0	
+		1	2	2	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		2	1	1	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	2	1	
+		0	0	0	
+		1	1	1	
+		2	3	2	
+		0	0	0	
+		0	0	0	
+		2	2	2	
+		1	2	1	
+		2	2	2	
+		1	0	0	
+		0	0	0	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		0	0	0	
+		2	2	2	
+		1	1	1	
+		14	14	14	
+		3	4	4	
+		0	0	0	
+		2	2	2	
+		4	4	4	
+		5	5	5	
+		1	0	0	
+		4	4	4	
+		3	3	3	
+		3	3	3	
+		0	1	0	
+		1	5	1	
+		1	1	1	
+		3	3	3	
+		3	3	3	
+		5	5	5	
+		2	2	2	
+		5	5	5	
+		0	0	0	
+		3	3	3	
+		4	5	4	
+		6	6	6	
+		5	5	5	
+		5	4	5	
+		5	5	5	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		2	2	2	
+		1	2	1	
+		3	3	3	
+		0	1	0	
+		0	0	0	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		0	0	0	
+		3	3	3	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	0	0	
+		1	1	1	
+		1	0	0	
+		1	3	3	
+		1	1	1	
+		3	3	3	
+		1	1	1	
+		2	2	2	
+		2	3	3	
+		2	2	1	
+		0	0	0	
+		3	3	3	
+		2	2	2	
+		1	1	1	
+		3	4	3	
+		4	4	4	
+		2	2	2	
+		3	3	3	
+		2	2	1	
+		3	2	2	
+		1	1	1	
+		2	0	0	
+		3	0	0	
+		4	4	4	
+		4	3	3	
+		2	3	2	
+		3	2	2	
+		2	2	1	
+		4	5	4	
+		5	5	5	
+		3	3	3	
+		3	3	3	
+		3	3	3	
+		4	4	4	
+		4	4	4	
+		1	1	1	
+		1	2	0	
+		2	1	1	
+		3	1	1	
+		2	1	1	
+		1	3	1	
+		3	4	3	
+		2	2	1	
+		3	1	2	
+		3	2	1	
+		3	2	1	
+		4	4	4	
+		2	2	0	
+		5	4	3	
+		3	4	2	
+		4	4	4	
+		3	4	2	
+		4	2	1	
+		4	4	4	
+		2	2	2	
+		4	4	4	
+		4	3	4	
+		2	2	2	
+		4	4	4	
+		5	5	5	
+		4	4	3	
+		4	2	1	
+		0	1	0	
+		4	5	4	
+		1	1	1	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		2	2	2	
+		2	2	2	
+		3	3	3	
+		2	1	1	
+		2	2	2	
+		1	0	1	
+		2	2	2	
+		1	2	1	
+		2	2	2	
+		1	1	1	
+		1	1	0	
+		2	3	3	
+		3	3	3	
+		2	2	2	
+		3	3	3	
+		3	3	3	
+		3	3	3	
+		3	3	3	
+		2	3	2	
+		0	0	0	
+		2	2	2	
+		1	2	1	
+		1	0	0	
+		2	2	2	
+		0	1	0	
+		0	0	0	
+		1	1	1	
+		2	1	2	
+		2	3	2	
+		2	2	2	
+		3	2	2	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		0	0	0	
+		0	0	0	
+		2	3	2	
+		2	2	2	
+		1	1	1	
+		2	2	2	
+		1	1	1	
+		1	0	0	
+		0	0	0	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		3	2	2	
+		2	2	2	
+		1	1	0	
+		0	0	0	
+		2	0	0	
+		2	2	2	
+		1	0	0	
+		1	3	1	
+		1	1	1	
+		2	2	2	
+		0	0	0	
+		0	1	0	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		1	1	1	
+		2	0	0	
+		2	2	2	
+		2	2	2	
+		4	4	4	
+		1	1	0	
+		1	1	1	
+		2	2	2	
+		0	2	1	
+		5	4	2	
+		4	5	4	
+		4	4	4	
+		5	4	4	
+		3	5	4	
+		5	5	5	
+		4	2	2	
+		2	1	1	
+		3	3	3	
+		1	2	2	
+		3	1	1	
+		2	2	2	
+		2	2	2	
+		4	4	4	
+		5	5	5	
+		3	4	3	
+		2	2	2	
+		4	4	4	
+		3	4	3	
+		4	4	4	
+		3	2	2	
+		5	5	5	
+		2	2	2	
+		4	3	3	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		3	3	3	
+		1	1	1	
+		2	2	2	
+		2	2	2	
+		1	1	0	
+		2	2	2	
+		3	3	3	
+		2	2	2	
+		2	2	2	
+		0	2	1	
+		0	1	1	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		0	2	2	
+		0	1	1	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		1	1	1	
+		3	1	4	
+		2	2	2	
+		0	1	0	
+		1	1	1	
+		2	1	0	
+		0	0	0	
+		2	2	2	
+		2	0	2	
+		1	1	1	
+		2	2	2	
+		1	1	1	
+		0	0	0	
+		0	0	0	
+		0	0	0	
+		1	1	0	
+		1	1	1	
+		1	1	1	
+		2	3	2	
+		2	2	1	
+		1	0	0	
+		2	1	1	
+		1	1	1	
+		3	3	0	
+		1	1	0	
+		2	1	1	
+		3	3	4	
+		4	1	1	
+		1	1	0	
+		1	0	0	
+		2	1	0	
+		1	0	0	
+		3	2	3	
+		0	0	0	
+		1	2	1	
+		2	1	1	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		4	4	4	
+		2	3	3	
+		2	2	2	
+		0	0	0	
+		7	8	7	
+		4	4	4	
+		0	0	0	
+		0	1	0	
+		0	1	0	
+		1	1	1	
+		0	1	0	
+		0	0	0	
+		1	1	1	
+		0	0	1	
+		1	0	0	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		0	1	1	
+		0	0	0	
+		1	1	1	
+		1	0	0	
+		3	2	4	
+		1	1	0	
+		1	1	1	
+		1	1	1	
+		1	1	1	
+		2	2	2	
+		2	1	1	
+		1	0	1	
+		0	0	0	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		2	2	2	
+		1	1	1	
+		2	2	2	
+		3	3	3	
+		2	2	2	
+		1	1	1	
+		1	1	1	
+		0	1	0	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		1	1	1	
+		2	1	2	
+		1	1	1	
+		0	0	0	
+		10	11	10	
+		5	6	5	
+		8	10	8	
+		1	2	1	
+		2	2	2	
+		2	3	3	
+		1	2	2	
+		2	2	2	
+		1	0	0	
+		1	1	1	
+		0	0	0	
+		1	1	1	
+		2	2	2	
+		1	1	1	
+		2	2	2	
+		3	2	2	
+		0	0	0	
+		1	1	1	
+		3	3	3	
+		4	4	4	
+		3	3	3	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		3	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		2	
+		1	
+		0	
+		1	
+		0	
+		0	
+		2	
+		1	
+		5	
+		0	
+		2	
+		0	
+		1	
+		1	
+		2	
+		0	
+		1	
+		0	
+		1	
+		3	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		3	
+		1	
+		0	
+		0	
+		3	
+		0	
+		2	
+		0	
+		1	
+		1	
+		2	
+		1	
+		2	
+		1	
+		3	
+		0	
+		1	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		2	
+		1	
+		0	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		1	
+		2	
+		2	
+		1	
+		0	
+		2	
+		0	
+		2	
+		0	
+		1	
+		0	
+		0	
+		0	
+		1	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		3	
+		0	
+		0	
+		0	
+		1	
+		2	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		2	
+		1	
+		1	
+		0	
+		2	
+		3	
+		1	
+		0	
+		3	
+		1	
+		3	
+		1	
+		1	
+		3	
+		1	
+		2	
+		2	
+		2	
+		0	
+		2	
+		1	
+		1	
+		2	
+		0	
+		1	
+		2	
+		1	
+		2	
+		1	
+		2	
+		2	
+		0	
+		2	
+		2	
+		2	
+		2	
+		1	
+		2	
+		0	
+		2	
+		0	
+		0	
+		1	
+		1	
+		2	
+		1	
+		0	
+		1	
+		1	
+		1	
+		2	
+		1	
+		1	
+		1	
+		0	
+		1	
+		0	
+		0	
+		2	
+		2	
+		2	
+		4	
+		3	
+		7	
+		4	
+		1	
+		3	
+		1	
+		4	
+		6	
+		2	
+		3	
+		4	
+		2	
+		2	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		2	
+		3	
+		4	
+		4	
+		0	
+		1	
+		2	
+		3	
+		1	
+		0	
+		2	
+		2	
+		0	
+		0	
+		1	
+		1	
+		0	
+		1	
+		1	
+		1	
+		1	
+		2	
+		2	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		2	
+		0	
+		1	
+		0	
+		2	
+		0	
+		2	
+		1	
+		2	
+		1	
+		1	
+		2	
+		1	
+		1	
+		2	
+		2	
+		2	
+		2	
+		2	
+		1	
+		1	
+		3	
+		2	
+		0	
+		1	
+		1	
+		0	
+		1	
+		2	
+		1	
+		3	
+		4	
+		3	
+		0	
+		3	
+		3	
+		1	
+		0	
+		1	
+		3	
+		3	
+		1	
+		1	
+		2	
+		0	
+		0	
+		0	
+		1	
+		1	
+		1	
+		2	
+		4	
+		14	
+		0	
+		1	
+		1	
+		0	
+		1	
+		2	
+		2	
+		4	
+		1	
+		1	
+		0	
+		4	
+		4	
+		0	
+		0	
+		3	
+		4	
+		0	
+		0	
+		1	
+		4	
+		5	
+		0	
+		1	
+		4	
+		4	
+		0	
+		2	
+		4	
+		2	
+		2	
+		6	
+		3	
+		2	
+		1	
+		1	
+		0	
+		1	
+		2	
+		2	
+		1	
+		1	
+		2	
+		0	
+		2	
+		2	
+		1	
+		1	
+		1	
+		1	
+		0	
+		0	
+		1	
+		1	
+		2	
+		2	
+		1	
+		0	
+		1	
+		1	
+		0	
+		2	
+		1	
+		0	
+		1	
+		1	
+		0	
+		3	
+		1	
+		1	
+		2	
+		3	
+		2	
+		2	
+		3	
+		2	
+		3	
+		2	
+		3	
+		3	
+		2	
+		4	
+		3	
+		0	
+		2	
+		2	
+		2	
+		1	
+		1	
+		2	
+		2	
+		3	
+		1	
+		2	
+		2	
+		3	
+		3	
+		3	
+		2	
+		1	
+		1	
+		3	
+		4	
+		1	
+		2	
+		4	
+		3	
+		1	
+		3	
+		3	
+		3	
+		2	
+		0	
+		2	
+		2	
+		0	
+		1	
+		0	
+		2	
+		1	
+		1	
+		0	
+		1	
+		2	
+		2	
+		1	
+		2	
+		2	
+		2	
+		1	
+		1	
+		1	
+		1	
+		1	
+		0	
+		1	
+		1	
+		2	
+		3	
+		2	
+		2	
+		2	
+		0	
+		1	
+		0	
+		2	
+		1	
+		2	
+		1	
+		2	
+		1	
+		2	
+		1	
+		2	
+		2	
+		2	
+		3	
+		3	
+		0	
+		1	
+		3	
+		5	
+		2	
+		3	
+		2	
+		0	
+		4	
+		3	
+		1	
+		3	
+		2	
+		3	
+		3	
+		3	
+		3	
+		3	
+		1	
+		3	
+		0	
+		2	
+		2	
+		2	
+		3	
+		2	
+		2	
+		1	
+		2	
+		2	
+		1	
+		0	
+		1	
+		6	
+		1	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		1	
+		3	
+		0	
+		0	
+		0	
+		1	
+		0	
+		1	
+		2	
+		2	
+		3	
+		1	
+		2	
+		1	
+		0	
+		0	
+		3	
+		1	
+		1	
+		0	
+		1	
+		1	
+		1	
+		1	
+		0	
+		1	
+		2	
+		1	
+		2	
+		1	
+		2	
+		2	
+		2	
+		2	
+		0	
+		1	
+		0	
+		0	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		2	
+		3	
+		2	
+		0	
+		1	
+		0	
+		4	
+		1	
+		1	
+		2	
+		2	
+		0	
+		3	
+		3	
+		3	
+		3	
+		1	
+		4	
+		2	
+		1	
+		0	
+		2	
+		2	
+		0	
+		1	
+		1	
+		3	
+		1	
+		1	
+		1	
+		0	
+		1	
+		1	
+		0	
+		0	
+		1	
+		0	
+		1	
+		0	
+		2	
+		5	
+		0	
+		4	
+		2	
+		4	
+		2	
+		4	
+		2	
+		3	
+		1	
+		0	
+		0	
+		5	
+		2	
+		1	
+		1	
+		1	
+		4	
+		3	
+		2	
+		2	
+		2	
+		1	
+		0	
+		0	
+		0	
+		4	
+		2	
+		0	
+		2	
+		4	
+		1	
+		1	
+		0	
+		2	
+		0	
+		1	
+		1	
+		0	
+		1	
+		1	
+		1	
+		0	
+		1	
+		2	
+		3	
+		1	
+		0	
+		0	
+		0	
+		1	
+		0	
+		1	
+		1	
+		0	
+		1	
+		1	
+		0	
+		0	
+		0	
+		4	
+		3	
+		1	
+		1	
+		3	
+		3	
+		3	
+		4	
+		1	
+		2	
+		2	
+		3	
+		2	
+		0	
+		2	
+		1	
+		1	
+		0	
+		2	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		2	
+		1	
+		0	
+		0	
+		0	
+		0	
+		1	
+		0	
+		3	
+		2	
+		0	
+		1	
+		0	
+		0	
+		1	
+		0	
+		0	
+		3	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		3	
+		0	
+		1	
+		1	
+		0	
+		0	
+		2	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		0	
+		3	
+		0	
+		1	
+		0	
+		0	
+		0	
+		1	
+		0	
+		4	
+		4	
+		2	
+		2	
+		0	
+		0	
+		1	
+		1	
+		0	
+		1	
+		1	
+		1	
+		1	
+		3	
+		3	
+		2	
+		0	
+		1	
+		1	
+		0	
+		2	
+		1	
+		0	
+		1	
+		2	
+		1	
+		2	
+		1	
+		1	
+		0	
+		0	
+		3	
+		0	
+		2	
+		1	
+		2	
+		2	
+		1	
+		4	
+		1	
+		3	
+		3	
+		2	
+		2	
+		3	
+		1	
+		2	
+		3	
+		1	
+		2	
+		1	
+		1	
+		0	
+		1	
+		1	
+		0	
+		3	
+		3	
+		2	
+		1	
+		0	
+		1	
+		0	
+		3	
+		0	
+		0	
+		0	
+		0	
+		2	
+		0	
+		0	
+		0	
+		2	
+		1	
+		5	
+		1	
+		2	
+		1	
+		2	
+		3	
+		4	
+		1	
+		0	
+		1	
+		0	
+		2	
+		0	
+		1	
+		0	
+		3	
+		2	
+		0	
+		3	
+		0	
+		1	
+		3	
+		0	
+		1	
+		1	
+		0	
+		2	
+		1	
+		0	
+		1	
+		2	
+		0	
+		0	
+		0	
+		0	
+		2	
+		2	
+		0	
+		1	
+		3	
+		0	
+		0	
+		0	
+		2	
+		0	
+		0	
+		0	
+		1	
+		3	
+		4	
+		2	
+		1	
+		1	
+		4	
+		3	
+		3	
+		3	
+		2	
+		0	
+		4	
+		5	
+		2	
+		1	
+		1	
+		3	
+		2	
+		0	
+		0	
+		2	
+		3	
+		1	
+		0	
+		2	
+		2	
+		1	
+		3	
+		1	
+		1	
+		3	
+		2	
+		0	
+		3	
+		0	
+		2	
+		0	
+		1	
+		0	
+		1	
+		1	
+		3	
+		2	
+		0	
+		0	
+		0	
+		2	
+		1	
+		2	
+		2	
+		1	
+		1	
+		3	
+		5	
+		1	
+		0	
+		0	
+		0	
+		2	
+		1	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		3	
+		0	
+		1	
+		3	
+		0	
+		0	
+		1	
+		1	
+		1	
+		1	
+		0	
+		2	
+		0	
+		1	
+		0	
+		0	
+		1	
+		1	
+		1	
+		1	
+		0	
+		3	
+		0	
+		2	
+		0	
+		1	
+		2	
+		1	
+		0	
+		0	
+		1	
+		0	
+		0	
+		2	
+		1	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		1	
+		1	
+		1	
+		2	
+		0	
+		0	
+		0	
+		2	
+		0	
+		3	
+		3	
+		2	
+		4	
+		0	
+		0	
+		0	
+		0	
+		4	
+		1	
+		1	
+		1	
+		0	
+		0	
+		0	
+		0	
+		0	
+		2	
+		0	
+		0	
+		1	
+		3	
+		2	
+		1	
+		0	
+		2	
+		3	
+		0	
+		0	
+		0	
+		1	
+		0	
+		1	
+		0	
+		1	
+		0	
+		3	
+		2	
+		1	
+		3	
+		3	
+		2	
+		3	
+		3	
+		1	
+		0	
+		3	
+		1	
+		2	
+		4	
+		2	
+		2	
+		1	
+		1	
+		2	
+		0	
+		3	
+		1	
+		0	
+		2	
+		2	
+		0	
+		2	
+		1	
+		0	
+		2	
+		1	
+		4	
+		2	
+		2	
+		3	
+		2	
+		2	
+		4	
+		4	
+		1	
+		4	
+		4	
+		3	
+		4	
+		3	
+		3	
+		3	
+		3	
+		3	
+		2	
+		0	
+		3	
+		3	
+		2	
+		2	
+		0	
+		4	
+		4	
+		2	
+		0	
+		3	
+		4	
+		4	
+		6	
+		2	
+		2	
+		2	
+		1	
+		1	
+		1	
+		1	
+		3	
+		3	
+		0	
+		3	
+		3	
+		1	
+		3	
+		1	
+		1	
+		0	
+		2	
+		0	
+		0	
+		2	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		2	
+		0	
+		0	
+		1	
+		0	
+		0	
+		0	
+		1	
+		1	
+		1	
+		1	
+		0	
+		1	
+		2	
+		0	
+		0	
+		2	
+		1	
+		2	
+		1	
+		0	
+		2	
+		0	
+		0	
+		1	
+		0	
+		2	
+		1	
+		14	
+		3	
+		0	
+		2	
+		4	
+		5	
+		1	
+		4	
+		3	
+		3	
+		0	
+		1	
+		1	
+		3	
+		3	
+		5	
+		2	
+		5	
+		0	
+		3	
+		4	
+		6	
+		5	
+		5	
+		5	
+		2	
+		0	
+		0	
+		1	
+		2	
+		2	
+		0	
+		2	
+		1	
+		3	
+		0	
+		0	
+		1	
+		2	
+		2	
+		0	
+		3	
+		0	
+		1	
+		1	
+		2	
+		0	
+		1	
+		1	
+		1	
+		1	
+		1	
+		1	
+		1	
+		1	
+		1	
+		3	
+		1	
+		2	
+		2	
+		2	
+		0	
+		3	
+		2	
+		1	
+		3	
+		4	
+		2	
+		3	
+		2	
+		3	
+		1	
+		2	
+		3	
+		4	
+		4	
+		2	
+		3	
+		2	
+		4	
+		5	
+		3	
+		3	
+		3	
+		4	
+		4	
+		1	
+		1	
+		2	
+		3	
+		2	
+		1	
+		3	
+		2	
+		3	
+		3	
+		3	
+		4	
+		2	
+		5	
+		3	
+		4	
+		3	
+		4	
+		4	
+		2	
+		4	
+		4	
+		2	
+		4	
+		5	
+		4	
+		4	
+		0	
+		4	
+		1	
+		2	
+		1	
+		1	
+		0	
+		2	
+		2	
+		3	
+		2	
+		2	
+		1	
+		2	
+		1	
+		2	
+		1	
+		1	
+		2	
+		3	
+		2	
+		3	
+		3	
+		3	
+		3	
+		2	
+		0	
+		2	
+		1	
+		1	
+		2	
+		0	
+		0	
+		1	
+		2	
+		2	
+		2	
+		3	
+		2	
+		1	
+		1	
+		2	
+		0	
+		0	
+		2	
+		2	
+		1	
+		2	
+		1	
+		1	
+		0	
+		2	
+		2	
+		2	
+		3	
+		2	
+		1	
+		0	
+		2	
+		2	
+		1	
+		1	
+		1	
+		2	
+		0	
+		0	
+		1	
+		2	
+		2	
+		1	
+		2	
+		2	
+		2	
+		4	
+		1	
+		1	
+		2	
+		0	
+		5	
+		4	
+		4	
+		5	
+		3	
+		5	
+		4	
+		2	
+		3	
+		1	
+		3	
+		2	
+		2	
+		4	
+		5	
+		3	
+		2	
+		4	
+		3	
+		4	
+		3	
+		5	
+		2	
+		4	
+		1	
+		1	
+		1	
+		2	
+		2	
+		1	
+		1	
+		2	
+		2	
+		2	
+		3	
+		1	
+		2	
+		2	
+		1	
+		2	
+		3	
+		2	
+		2	
+		0	
+		0	
+		2	
+		2	
+		2	
+		2	
+		0	
+		0	
+		1	
+		1	
+		2	
+		1	
+		3	
+		2	
+		0	
+		1	
+		2	
+		0	
+		2	
+		2	
+		1	
+		2	
+		1	
+		0	
+		0	
+		0	
+		1	
+		1	
+		1	
+		2	
+		2	
+		1	
+		2	
+		1	
+		3	
+		1	
+		2	
+		3	
+		4	
+		1	
+		1	
+		2	
+		1	
+		3	
+		0	
+		1	
+		2	
+		1	
+		1	
+		1	
+		1	
+		0	
+		1	
+		1	
+		4	
+		2	
+		2	
+		0	
+		7	
+		4	
+		0	
+		0	
+		0	
+		1	
+		0	
+		0	
+		1	
+		0	
+		1	
+		1	
+		0	
+		1	
+		1	
+		1	
+		1	
+		1	
+		0	
+		0	
+		1	
+		1	
+		3	
+		1	
+		1	
+		1	
+		1	
+		2	
+		2	
+		1	
+		0	
+		2	
+		2	
+		2	
+		2	
+		2	
+		1	
+		2	
+		3	
+		2	
+		1	
+		1	
+		0	
+		1	
+		0	
+		1	
+		1	
+		2	
+		1	
+		0	
+		10	
+		5	
+		8	
+		1	
+		2	
+		2	
+		1	
+		2	
+		1	
+		1	
+		0	
+		1	
+		2	
+		1	
+		2	
+		3	
+		0	
+		1	
+		3	
+		4	
+		3	

@@ -1,0 +1,249 @@
+MetaB_module_ID	Module category
+MetaB_M001	Miscellaneous
+MetaB_M002	Organoheterocyclic compounds
+MetaB_M003	Lipids and lipid-like molecules
+MetaB_M004	Lipids and lipid-like molecules
+MetaB_M005	Benzenoids
+MetaB_M006	Organic acids and derivatives
+MetaB_M007	Organic acids and derivatives
+MetaB_M008	Miscellaneous
+MetaB_M009	Benzenoids
+MetaB_M010	Miscellaneous
+MetaB_M011	Organoheterocyclic compounds
+MetaB_M012	Organoheterocyclic compounds
+MetaB_M013	Miscellaneous
+MetaB_M014	Lipids and lipid-like molecules
+MetaB_M015	Lipids and lipid-like molecules
+MetaB_M016	Lipids and lipid-like molecules
+MetaB_M017	Miscellaneous
+MetaB_M018	Lipids and lipid-like molecules
+MetaB_M019	Benzenoids
+MetaB_M020	Organoheterocyclic compounds
+MetaB_M021	Organic acids and derivatives
+MetaB_M022	Organoheterocyclic compounds
+MetaB_M023	Lipids and lipid-like molecules
+MetaB_M024	Miscellaneous
+MetaB_M025	Organoheterocyclic compounds
+MetaB_M026	Benzenoids
+MetaB_M027	Organic acids and derivatives
+MetaB_M028	Organoheterocyclic compounds
+MetaB_M029	Miscellaneous
+MetaB_M030	Miscellaneous
+MetaB_M031	Miscellaneous
+MetaB_M032	Lipids and lipid-like molecules
+MetaB_M033	Organoheterocyclic compounds
+MetaB_M034	Lipids and lipid-like molecules
+MetaB_M035	Organoheterocyclic compounds
+MetaB_M036	Organoheterocyclic compounds
+MetaB_M037	Organoheterocyclic compounds
+MetaB_M038	Lipids and lipid-like molecules
+MetaB_M039	Lipids and lipid-like molecules
+MetaB_M040	Miscellaneous
+MetaB_M041	Lipids and lipid-like molecules
+MetaB_M042	Miscellaneous
+MetaB_M043	Organoheterocyclic compounds
+MetaB_M044	Organic acids and derivatives
+MetaB_M045	Miscellaneous
+MetaB_M046	Miscellaneous
+MetaB_M047	Lipids and lipid-like molecules
+MetaB_M048	Lipids and lipid-like molecules
+MetaB_M049	Miscellaneous
+MetaB_M050	Organic oxygen compounds
+MetaB_M051	Organoheterocyclic compounds
+MetaB_M052	Organoheterocyclic compounds
+MetaB_M053	Lipids and lipid-like molecules
+MetaB_M054	Organic acids and derivatives
+MetaB_M055	Miscellaneous
+MetaB_M056	Miscellaneous
+MetaB_M057	Miscellaneous
+MetaB_M058	Lipids and lipid-like molecules
+MetaB_M059	Phenylpropanoids and polyketides
+MetaB_M060	Benzenoids
+MetaB_M061	Lipids and lipid-like molecules
+MetaB_M062	Organoheterocyclic compounds
+MetaB_M063	Lipids and lipid-like molecules
+MetaB_M064	Organic acids and derivatives
+MetaB_M065	Organic oxygen compounds
+MetaB_M066	Benzenoids
+MetaB_M067	Lipids and lipid-like molecules
+MetaB_M068	Lipids and lipid-like molecules
+MetaB_M069	Lipids and lipid-like molecules
+MetaB_M070	Organoheterocyclic compounds
+MetaB_M071	Miscellaneous
+MetaB_M072	Organoheterocyclic compounds
+MetaB_M073	Benzenoids
+MetaB_M074	Organic acids and derivatives
+MetaB_M075	Organic acids and derivatives
+MetaB_M076	Phenylpropanoids and polyketides
+MetaB_M077	Benzenoids
+MetaB_M078	Organic nitrogen compounds
+MetaB_M079	Lipids and lipid-like molecules
+MetaB_M080	Lipids and lipid-like molecules
+MetaB_M081	Lipids and lipid-like molecules
+MetaB_M082	Miscellaneous
+MetaB_M083	Miscellaneous
+MetaB_M084	"Nucleosides, nucleotides, and analogues"
+MetaB_M085	Organoheterocyclic compounds
+MetaB_M086	Lipids and lipid-like molecules
+MetaB_M087	Organoheterocyclic compounds
+MetaB_M088	Organoheterocyclic compounds
+MetaB_M089	Lipids and lipid-like molecules
+MetaB_M090	Lipids and lipid-like molecules
+MetaB_M091	Miscellaneous
+MetaB_M092	Miscellaneous
+MetaB_M093	Organic acids and derivatives
+MetaB_M094	Lipids and lipid-like molecules
+MetaB_M095	Lipids and lipid-like molecules
+MetaB_M096	Miscellaneous
+MetaB_M097	Benzenoids
+MetaB_M098	Organic oxygen compounds
+MetaB_M099	Organic acids and derivatives
+MetaB_M100	Miscellaneous
+MetaB_M101	Lipids and lipid-like molecules
+MetaB_M102	Organic oxygen compounds
+MetaB_M103	Lipids and lipid-like molecules
+MetaB_M104	Miscellaneous
+MetaB_M105	Organoheterocyclic compounds
+MetaB_M106	Lipids and lipid-like molecules
+MetaB_M107	Organoheterocyclic compounds
+MetaB_M108	Lipids and lipid-like molecules
+MetaB_M109	Organic acids and derivatives
+MetaB_M110	Miscellaneous
+MetaB_M111	Organoheterocyclic compounds
+MetaB_M112	Lipids and lipid-like molecules
+MetaB_M113	Lipids and lipid-like molecules
+MetaB_M114	Lipids and lipid-like molecules
+MetaB_M115	Benzenoids
+MetaB_M116	Miscellaneous
+MetaB_M117	Organic acids and derivatives
+MetaB_M118	"Nucleosides, nucleotides, and analogues"
+MetaB_M119	Miscellaneous
+MetaB_M120	Lipids and lipid-like molecules
+MetaB_M121	Organic acids and derivatives
+MetaB_M122	Lipids and lipid-like molecules
+MetaB_M123	Miscellaneous
+MetaB_M124	Organoheterocyclic compounds
+MetaB_M125	Miscellaneous
+MetaB_M126	Organic oxygen compounds
+MetaB_M127	Organoheterocyclic compounds
+MetaB_M128	Organoheterocyclic compounds
+MetaB_M129	Organic oxygen compounds
+MetaB_M130	Lipids and lipid-like molecules
+MetaB_M131	Miscellaneous
+MetaB_M132	Miscellaneous
+MetaB_M133	Organoheterocyclic compounds
+MetaB_M134	Organic acids and derivatives
+MetaB_M135	Lipids and lipid-like molecules
+MetaB_M136	Benzenoids
+MetaB_M137	Organoheterocyclic compounds
+MetaB_M138	Phenylpropanoids and polyketides
+MetaB_M139	Miscellaneous
+MetaB_M140	Miscellaneous
+MetaB_M141	Organic acids and derivatives
+MetaB_M142	Organic oxygen compounds
+MetaB_M143	Lipids and lipid-like molecules
+MetaB_M144	Lipids and lipid-like molecules
+MetaB_M145	Miscellaneous
+MetaB_M146	Organic acids and derivatives
+MetaB_M147	Lipids and lipid-like molecules
+MetaB_M148	Lipids and lipid-like molecules
+MetaB_M149	Miscellaneous
+MetaB_M150	Phenylpropanoids and polyketides
+MetaB_M151	Miscellaneous
+MetaB_M152	Lipids and lipid-like molecules
+MetaB_M153	Miscellaneous
+MetaB_M154	Miscellaneous
+MetaB_M155	Organic acids and derivatives
+MetaB_M156	Miscellaneous
+MetaB_M157	Organoheterocyclic compounds
+MetaB_M158	Lipids and lipid-like molecules
+MetaB_M159	Benzenoids
+MetaB_M160	Miscellaneous
+MetaB_M161	Miscellaneous
+MetaB_M162	Organic acids and derivatives
+MetaB_M163	Organic acids and derivatives
+MetaB_M164	Miscellaneous
+MetaB_M165	Miscellaneous
+MetaB_M166	Lipids and lipid-like molecules
+MetaB_M167	Miscellaneous
+MetaB_M168	Organic oxygen compounds
+MetaB_M169	Organoheterocyclic compounds
+MetaB_M170	Benzenoids
+MetaB_M171	Lipids and lipid-like molecules
+MetaB_M172	Miscellaneous
+MetaB_M173	Miscellaneous
+MetaB_M174	Miscellaneous
+MetaB_M175	Miscellaneous
+MetaB_M176	Lipids and lipid-like molecules
+MetaB_M177	Miscellaneous
+MetaB_M178	Benzenoids
+MetaB_M179	Organoheterocyclic compounds
+MetaB_M180	Lipids and lipid-like molecules
+MetaB_M181	Miscellaneous
+MetaB_M182	Benzenoids
+MetaB_M183	Organic acids and derivatives
+MetaB_M184	Organoheterocyclic compounds
+MetaB_M185	Organic oxygen compounds
+MetaB_M186	Miscellaneous
+MetaB_M187	Lipids and lipid-like molecules
+MetaB_M188	Organoheterocyclic compounds
+MetaB_M189	Benzenoids
+MetaB_M190	Lipids and lipid-like molecules
+MetaB_M191	Organoheterocyclic compounds
+MetaB_M192	Lipids and lipid-like molecules
+MetaB_M193	Lipids and lipid-like molecules
+MetaB_M194	Lipids and lipid-like molecules
+MetaB_M195	Lipids and lipid-like molecules
+MetaB_M196	Miscellaneous
+MetaB_M197	Organic acids and derivatives
+MetaB_M198	Miscellaneous
+MetaB_M199	Lipids and lipid-like molecules
+MetaB_M200	Miscellaneous
+MetaB_M201	Miscellaneous
+MetaB_M202	Miscellaneous
+MetaB_M203	Organic acids and derivatives
+MetaB_M204	Lipids and lipid-like molecules
+MetaB_M205	Miscellaneous
+MetaB_M206	Organoheterocyclic compounds
+MetaB_M207	Lipids and lipid-like molecules
+MetaB_M208	Organic acids and derivatives
+MetaB_M209	Miscellaneous
+MetaB_M210	Miscellaneous
+MetaB_M211	Miscellaneous
+MetaB_M212	Miscellaneous
+MetaB_M213	Lipids and lipid-like molecules
+MetaB_M214	Miscellaneous
+MetaB_M215	Lipids and lipid-like molecules
+MetaB_M216	Lipids and lipid-like molecules
+MetaB_M217	Lipids and lipid-like molecules
+MetaB_M218	Lipids and lipid-like molecules
+MetaB_M219	Lipids and lipid-like molecules
+MetaB_M220	Miscellaneous
+MetaB_M221	Miscellaneous
+MetaB_M222	Miscellaneous
+MetaB_M223	Miscellaneous
+MetaB_M224	Miscellaneous
+MetaB_M225	Miscellaneous
+MetaB_M226	Miscellaneous
+MetaB_M227	Organoheterocyclic compounds
+MetaB_M228	Lipids and lipid-like molecules
+MetaB_M229	Miscellaneous
+MetaB_M230	"Nucleosides, nucleotides, and analogues"
+MetaB_M231	Benzenoids
+MetaB_M232	Lipids and lipid-like molecules
+MetaB_M233	Organic oxygen compounds
+MetaB_M234	"Nucleosides, nucleotides, and analogues"
+MetaB_M235	Organic oxygen compounds
+MetaB_M236	Organoheterocyclic compounds
+MetaB_M237	Organic acids and derivatives
+MetaB_M238	Organic acids and derivatives
+MetaB_M239	Miscellaneous
+MetaB_M240	Lipids and lipid-like molecules
+MetaB_M241	Miscellaneous
+MetaB_M242	Miscellaneous
+MetaB_M243	Lipids and lipid-like molecules
+MetaB_M244	Organic acids and derivatives
+MetaB_M245	Benzenoids
+MetaB_M246	Lipids and lipid-like molecules
+MetaB_M247	Organic acids and derivatives
+MetaB_M248	Organoheterocyclic compounds

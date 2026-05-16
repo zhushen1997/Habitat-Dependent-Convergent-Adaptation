@@ -1,0 +1,7 @@
+pathway	pathway_name	Subcategory	Category
+ko00730	00730 Thiamine metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko04122	04122 Sulfur relay system 	09123 Folding, sorting and degradation	09120 Genetic Information Processing
+ko00860	00860 Porphyrin metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko04150	04150 mTOR signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko00630	00630 Glyoxylate and dicarboxylate metabolism 	09101 Carbohydrate metabolism	09100 Metabolism
+ko00190	00190 Oxidative phosphorylation 	09102 Energy metabolism	09100 Metabolism

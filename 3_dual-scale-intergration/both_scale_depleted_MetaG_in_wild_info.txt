@@ -1,0 +1,27 @@
+module	module_name	中文名	category_C	category_B	
+M00570	Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	异亮氨酸的生物合成,苏氨酸→α-酮丁酸→异亮氨酸	Branched-chain amino acid metabolism	Amino acid metabolism	
+M00072	N-glycosylation by oligosaccharyltransferase	寡糖基转移酶介导的N-糖基化	Glycan biosynthesis	Glycan metabolism	
+M00627	beta-Lactam resistance, Bla system	β-内酰胺耐药性,Bla系统	Drug resistance	Drug resistance	
+M00535	Isoleucine biosynthesis, pyruvate => 2-oxobutanoate	异亮氨酸的生物合成,丙酮酸→α-酮丁酸	Branched-chain amino acid metabolism	Amino acid metabolism	
+M00076	Dermatan sulfate degradation	皮肤素硫酸盐的降解	Glycosaminoglycan metabolism	Glycan metabolism	
+M00162	Cytochrome b6f complex	细胞色素b6f复合体	ATP synthesis	Energy metabolism	
+M00797	dTDP-D-desosamine biosynthesis	dTDP-D-脱氧岩藻糖的生物合成	Polyketide sugar unit biosynthesis	Biosynthesis of terpenoids and polyketides	
+M00847	Heme biosynthesis, archaea, siroheme => heme	血红素的生物合成,古菌,siro血红素→血红素	Cofactor and vitamin metabolism	Metabolism of cofactors and vitamins	
+M00065	GPI-anchor biosynthesis, core oligosaccharide	GPI锚的生物合成,核心寡糖	Glycan biosynthesis	Glycan metabolism	
+M00814	Acarbose biosynthesis, sedoheptulopyranose-7P => acarbose	阿卡波糖的生物合成,七碳糖-7P→阿卡波糖	Biosynthesis of other bacterial compounds	Biosynthesis of other secondary metabolites	
+M00798	dTDP-L-mycarose biosynthesis	dTDP-L-麦芽庚糖的生物合成	Polyketide sugar unit biosynthesis	Biosynthesis of terpenoids and polyketides	
+M00145	NAD(P)H:quinone oxidoreductase, chloroplasts and cyanobacteria	NAD(P)H:醌氧化还原酶,叶绿体和蓝细菌	ATP synthesis	Energy metabolism	
+M00730	Cationic antimicrobial peptide (CAMP) resistance, VraFG transporter	阳离子抗菌肽(CAMP)耐药性,VraFG转运蛋白	Drug resistance	Drug resistance	
+M00019	Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	缬氨酸/异亮氨酸的生物合成,丙酮酸→缬氨酸/2-氧戊酸→异亮氨酸	Branched-chain amino acid metabolism	Amino acid metabolism	
+M00163	Photosystem I	光系统I	Photosynthesis	Energy metabolism	
+M00432	Leucine biosynthesis, 2-oxoisovalerate => 2-oxoisocaproate	缬氨酸的生物合成,α-酮异戊酸→α-酮异己酸	Branched-chain amino acid metabolism	Amino acid metabolism	
+M00078	Heparan sulfate degradation	肝素硫酸盐的降解	Glycosaminoglycan metabolism	Glycan metabolism	
+M00800	dTDP-L-megosamine biosynthesis	dTDP-L-梅戈糖的生物合成	Polyketide sugar unit biosynthesis	Biosynthesis of terpenoids and polyketides	
+M00803	dTDP-D-angolosamine biosynthesis	dTDP-D-安哥洛糖的生物合成	Polyketide sugar unit biosynthesis	Biosynthesis of terpenoids and polyketides	
+ko01052	Type I polyketide structures	I型聚酮结构	Metabolism of terpenoids and polyketides	Biosynthesis of terpenoids and polyketides	
+M00705	Multidrug resistance, efflux pump MepA	多药耐药性,外排泵MepA	Drug resistance	Drug resistance	
+M00866	KDO2-lipid A biosynthesis, Raetz pathway, non-LpxL-LpxM type	KDO2-脂质A的生物合成,Raetz途径,非LpxL-LpxM型	Lipopolysaccharide metabolism	Glycan metabolism	
+M00077	Chondroitin sulfate degradation	软骨素硫酸盐的降解	Glycosaminoglycan metabolism	Glycan metabolism	
+M00081	Pectin degradation	果胶的降解	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00014	Glucuronate pathway (uronate pathway)	葡糖醛酸途径(尿酸途径)	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00596	Dissimilatory sulfate reduction, sulfate => H2S	异化硫酸盐还原,硫酸盐→H2S	Sulfur metabolism	Energy metabolism	
