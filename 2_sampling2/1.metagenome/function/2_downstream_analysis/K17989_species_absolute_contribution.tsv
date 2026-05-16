@@ -1,0 +1,42 @@
+Species Path	fam01	fam02	fam03	fam09	hos06	lab03	lab04	lab05	lab08	res10	wild01	wild03	wild04	wild05	wild06	wild07	wild08	wild10
+d__Bacteria;p__Bacillota;c__Clostridia;o__Christensenellales;f__UBA1242;g__CAKVOD01;s__CAKVOD01 sp944332315	0.23020425	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-269;s__CAG-269 sp947632745	0.09400012	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp900760675	0	0.51372445	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Clostridia;o__Oscillospirales;f__UBA929;g__WRLJ01;s__WRLJ01 sp031271665	0	0	0	0	0	0	0	0.2155938	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s_unclassify_g__Bacteroides	0	0	0	0	0	0	0	0	7.6869044	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella marshii	0	0	0	0	0	0	0	0	0	0	0	0.22569314	0	0	0	0	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Xanthomonadaceae;g__Thermomonas;s__Thermomonas hydrothermalis	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3357156	0	0	0	0
+d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Natrialbaceae;g__Natronolimnohabitans;s__Natronolimnohabitans sp030848565	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.30038154	0	0	0
+d__Archaea;p__Nanobdellota;c__Nanobdellia;o__Woesearchaeales;f__JAHJEM01;g__JAHJEM01;s__JAHJEM01 sp018825425	0	0	0	0	0	0	0	0	0	0.52622116	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Enterenecus;s__Enterenecus sp910588105	0	0	0	0	0	0	0	0	0	0	0	0	0	0.8231471	0	0	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter pittii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.4271675	0	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Ewingella;s__Ewingella psychrotolerans	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2.8668118	0	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Tidjanibacter;s__Tidjanibacter gallistercoris	0	0.36613494	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d_unclassify;p_unclassify;c_unclassify;o_unclassify;f_unclassify;g_unclassify;s_unclassify	0	0	0	0.28161806	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Streptosporangiales;f__Streptosporangiaceae;g__Nocardiopsis;s__Nocardiopsis sinuspersici	0	0	0	0	0	0	0	0	0	0	0.2261497	0	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Levilactobacillus;s__Levilactobacillus sp937874695	0	0	0	0	0	0	0	0	0	0	0	0.21099138	0	0	0	0	0	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s_unclassify_g__Prevotella	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.4703288	0	0	0
+d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__Coprosoma;s__Coprosoma sp934133155	0	0	0	0	0.17539525	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Desulfotomaculia;o__Desulfotomaculales;f__VENG01;g_unclassify_f__VENG01;s_unclassify_f__VENG01	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.30569294	0	0	0
+d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Micrococcaceae;g__Arthrobacter;s__Arthrobacter defluvii_A	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.21546145	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Atlantibacter;s__Atlantibacter sp002345315	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.27648574	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Pseudomonadaceae;g__Pseudomonas_E;s__Pseudomonas_E faucium	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.72693	0
+d__Bacteria;p_unclassify_d__Bacteria;c_unclassify_d__Bacteria;o_unclassify_d__Bacteria;f_unclassify_d__Bacteria;g_unclassify_d__Bacteria;s_unclassify_d__Bacteria	0	0	0	0	0	0	0	0.18990792	0.38385108	0	0	0.16831891	0.24645007	0.4925649	0	0	0	0.47006425
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter amyesii	0	0	0	0	0	0	0	0	0	0	0	0.5439503	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lapidilactobacillus;s__Lapidilactobacillus dextrinicus	0	0	0	0	0	0	0	0	0	0	0	0	0.24725801	0	0	0	0	0
+d__Bacteria;p__Fusobacteriota;c__Fusobacteriia;o__Fusobacteriales;f__Fusobacteriaceae;g__Cetobacterium_A;s__Cetobacterium_A somerae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.30463243	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Klebsiella;s__Klebsiella ornithinolytica	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1.1461545	0	0
+d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Actinomycetales;f__Cellulomonadaceae;g__Cellulosimicrobium;s__Cellulosimicrobium protaetiae	0	0	0	0	0	0	0	0	0	0	0	2.7576644	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Bacilli;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Breznakia;s__Breznakia sp001695645	0	0	0	0	0	0	0	0	0	0	0	0.250217	0	0	0	0	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Enterobacter;s__Enterobacter mori	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.62474334	0	0	0
+d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactiplantibacillus;s__Lactiplantibacillus plantarum	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.52788085	0	0
+d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Mycobacteriaceae;g__Tomitella;s__Tomitella gaofuii	0	0	0	0	0	0	0.3953509	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Actinomycetota;c__Actinomycetes;o__Mycobacteriales;f__Pseudonocardiaceae;g__Amycolatopsis;s_unclassify_g__Amycolatopsis	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.3101565	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__UBA6168;s__UBA6168 sp002435785	0	0	0.30169848	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes_A;s__Alistipes_A hominis	0	0	0	0	0	0.37732416	0	0	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAJOIG01;s__CAJOIG01 sp947632365	0	0	0	0	0	0	0	0.28514022	0	0	0	0	0	0	0	0	0	0
+d__Bacteria;p__Desulfobacterota;c__Desulfuromonadia;o__Geobacterales;f__DSM-12255;g__Geoanaerobacter;s__Geoanaerobacter sp000813145	0	0	0	0	0	0	0	0	0	0.33187842	0	0	0	0	0	0	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter pecorum	0	0	0	0	0	0	0	0	0	0	0	1.0201695	0	0	0	0	0	0
+d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__CAG-877;s__CAG-877 sp900753325	0	0	0	0	0	0	0	0	0	0	0	0	1.3688961	0	0	0	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Moraxellaceae;g__Acinetobacter;s__Acinetobacter johnsonii	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.26737264	0.8062236	0	0
+d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Kluyvera;s__Kluyvera cryocrescens	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.6580895
