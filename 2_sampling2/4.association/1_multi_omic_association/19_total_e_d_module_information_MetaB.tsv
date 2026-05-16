@@ -1,0 +1,58 @@
+module	lambda.min	coef	absCoef	Module.category	label
+M010	1.43099050922692	1.43099050922692	1.43099050922692	Organoheterocyclic compounds	M010:Organoheterocyclic compounds
+M129	1.30394164592274	1.30394164592274	1.30394164592274	Miscellaneous	M129:Miscellaneous
+M096	1.29456360510356	1.29456360510356	1.29456360510356	Phenylpropanoids and polyketides	M096:Phenylpropanoids and polyketides
+M014	1.25690440279969	1.25690440279969	1.25690440279969	Organoheterocyclic compounds	M014:Organoheterocyclic compounds
+M085	1.20562334657113	1.20562334657113	1.20562334657113	Organic acids and derivatives	M085:Organic acids and derivatives
+M100	0.99429126590521	0.99429126590521	0.99429126590521	Miscellaneous	M100:Miscellaneous
+M128	0.962730308917591	0.962730308917591	0.962730308917591	Lipids and lipid-like molecules	M128:Lipids and lipid-like molecules
+M105	0.746879747265671	0.746879747265671	0.746879747265671	Lipids and lipid-like molecules	M105:Lipids and lipid-like molecules
+M117	0.741241165313337	0.741241165313337	0.741241165313337	Lipids and lipid-like molecules	M117:Lipids and lipid-like molecules
+M031	0.580875288370589	0.580875288370589	0.580875288370589	Miscellaneous	M031:Miscellaneous
+M026	0.554490282862218	0.554490282862218	0.554490282862218	Lipids and lipid-like molecules	M026:Lipids and lipid-like molecules
+M087	0.464955396882098	0.464955396882098	0.464955396882098	Organic acids and derivatives	M087:Organic acids and derivatives
+M032	0.351015696752921	0.351015696752921	0.351015696752921	Lipids and lipid-like molecules	M032:Lipids and lipid-like molecules
+M064	0.320801964564747	0.320801964564747	0.320801964564747	Organoheterocyclic compounds	M064:Organoheterocyclic compounds
+M011	0.132792094595024	0.132792094595024	0.132792094595024	Organoheterocyclic compounds	M011:Organoheterocyclic compounds
+M078	0.104715976795025	0.104715976795025	0.104715976795025	Organoheterocyclic compounds	M078:Organoheterocyclic compounds
+M016	-0.0100790824720409	-0.0100790824720409	0.0100790824720409	Lipids and lipid-like molecules	M016:Lipids and lipid-like molecules
+M047	-0.0172128161048346	-0.0172128161048346	0.0172128161048346	Miscellaneous	M047:Miscellaneous
+M131	-0.0312922932390964	-0.0312922932390964	0.0312922932390964	Miscellaneous	M131:Miscellaneous
+M042	-0.135947406526409	-0.135947406526409	0.135947406526409	Organic acids and derivatives	M042:Organic acids and derivatives
+M025	-0.150692116625306	-0.150692116625306	0.150692116625306	Organoheterocyclic compounds	M025:Organoheterocyclic compounds
+M094	-0.172638500219837	-0.172638500219837	0.172638500219837	Lipids and lipid-like molecules	M094:Lipids and lipid-like molecules
+M069	-0.181220668283067	-0.181220668283067	0.181220668283067	Lipids and lipid-like molecules	M069:Lipids and lipid-like molecules
+M144	-0.212403538308825	-0.212403538308825	0.212403538308825	Organic acids and derivatives	M144:Organic acids and derivatives
+M118	-0.225714099708311	-0.225714099708311	0.225714099708311	Lipids and lipid-like molecules	M118:Lipids and lipid-like molecules
+M065	-0.227094715651771	-0.227094715651771	0.227094715651771	Organic acids and derivatives	M065:Organic acids and derivatives
+M019	-0.288071565222362	-0.288071565222362	0.288071565222362	Miscellaneous	M019:Miscellaneous
+M074	-0.292185180941426	-0.292185180941426	0.292185180941426	Lipids and lipid-like molecules	M074:Lipids and lipid-like molecules
+M114	-0.297595649527765	-0.297595649527765	0.297595649527765	Miscellaneous	M114:Miscellaneous
+M141	-0.364787704875622	-0.364787704875622	0.364787704875622	Organic acids and derivatives	M141:Organic acids and derivatives
+M001	-0.376486598327348	-0.376486598327348	0.376486598327348	Phenylpropanoids and polyketides	M001:Phenylpropanoids and polyketides
+M134	-0.432066523954926	-0.432066523954926	0.432066523954926	Organic acids and derivatives	M134:Organic acids and derivatives
+M027	-0.442033085783977	-0.442033085783977	0.442033085783977	Lipids and lipid-like molecules	M027:Lipids and lipid-like molecules
+M062	-0.457679153807119	-0.457679153807119	0.457679153807119	Lipids and lipid-like molecules	M062:Lipids and lipid-like molecules
+M080	-0.478083421983167	-0.478083421983167	0.478083421983167	Lipids and lipid-like molecules	M080:Lipids and lipid-like molecules
+M036	-0.483177457594175	-0.483177457594175	0.483177457594175	Lipids and lipid-like molecules	M036:Lipids and lipid-like molecules
+M015	-0.497382387882488	-0.497382387882488	0.497382387882488	Lipids and lipid-like molecules	M015:Lipids and lipid-like molecules
+M037	-0.499557627729358	-0.499557627729358	0.499557627729358	Lipids and lipid-like molecules	M037:Lipids and lipid-like molecules
+M093	-0.57371866125439	-0.57371866125439	0.57371866125439	Organoheterocyclic compounds	M093:Organoheterocyclic compounds
+M077	-0.681692759648519	-0.681692759648519	0.681692759648519	Phenylpropanoids and polyketides	M077:Phenylpropanoids and polyketides
+M120	-0.683245622012371	-0.683245622012371	0.683245622012371	Organic acids and derivatives	M120:Organic acids and derivatives
+M049	-0.686820088466237	-0.686820088466237	0.686820088466237	Phenylpropanoids and polyketides	M049:Phenylpropanoids and polyketides
+M058	-0.690446806515771	-0.690446806515771	0.690446806515771	Organic acids and derivatives	M058:Organic acids and derivatives
+M082	-0.710569130942378	-0.710569130942378	0.710569130942378	Lipids and lipid-like molecules	M082:Lipids and lipid-like molecules
+M056	-0.738756506422597	-0.738756506422597	0.738756506422597	Lipids and lipid-like molecules	M056:Lipids and lipid-like molecules
+M084	-0.770350395465959	-0.770350395465959	0.770350395465959	Benzenoids	M084:Benzenoids
+M121	-0.810296016881874	-0.810296016881874	0.810296016881874	Lipids and lipid-like molecules	M121:Lipids and lipid-like molecules
+M051	-0.810686160991542	-0.810686160991542	0.810686160991542	Lipids and lipid-like molecules	M051:Lipids and lipid-like molecules
+M132	-0.915174437047794	-0.915174437047794	0.915174437047794	Organic acids and derivatives	M132:Organic acids and derivatives
+M138	-0.948021055653172	-0.948021055653172	0.948021055653172	Organic acids and derivatives	M138:Organic acids and derivatives
+M018	-0.965428925177398	-0.965428925177398	0.965428925177398	Lipids and lipid-like molecules	M018:Lipids and lipid-like molecules
+M044	-0.970279963148632	-0.970279963148632	0.970279963148632	Phenylpropanoids and polyketides	M044:Phenylpropanoids and polyketides
+M113	-1.00029830598444	-1.00029830598444	1.00029830598444	Lipids and lipid-like molecules	M113:Lipids and lipid-like molecules
+M068	-1.03980890445168	-1.03980890445168	1.03980890445168	Organic acids and derivatives	M068:Organic acids and derivatives
+M133	-1.10105261719238	-1.10105261719238	1.10105261719238	Organoheterocyclic compounds	M133:Organoheterocyclic compounds
+M009	-1.12018632860998	-1.12018632860998	1.12018632860998	Lipids and lipid-like molecules	M009:Lipids and lipid-like molecules
+M008	-1.14081436768299	-1.14081436768299	1.14081436768299	Organic oxygen compounds	M008:Organic oxygen compounds
