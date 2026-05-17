@@ -1,0 +1,38 @@
+pathway	lambda.min	coef	absCoef	pathway_name	Subcategory	Category	label
+ko03050	6.40571431801711	6.40571431801711	6.40571431801711	Proteasome 	Folding, sorting and degradation	Genetic Information Processing	ko03050:Proteasome 
+ko03010	5.67174173016072	5.67174173016072	5.67174173016072	Ribosome 	Translation	Genetic Information Processing	ko03010:Ribosome 
+ko03018	4.91460441813912	4.91460441813912	4.91460441813912	RNA DEG. 	Folding, sorting and degradation	Genetic Information Processing	ko03018:RNA DEG. 
+ko00190	4.64606324300032	4.64606324300032	4.64606324300032	Oxidative phosphorylation 	Energy metabolism	Metabolism	ko00190:Oxidative phosphorylation 
+ko04150	4.2163635319408	4.2163635319408	4.2163635319408	mTOR SIG. PWY. 	Signal transduction	Environmental Information Processing	ko04150:mTOR SIG. PWY. 
+ko00052	4.08855833029581	4.08855833029581	4.08855833029581	Galactose MET. 	Carbohydrate metabolism	Metabolism	ko00052:Galactose MET. 
+ko03060	3.31097304466266	3.31097304466266	3.31097304466266	Protein export 	Folding, sorting and degradation	Genetic Information Processing	ko03060:Protein export 
+ko00220	2.25491994231995	2.25491994231995	2.25491994231995	Arginine SYN. 	Amino acid metabolism	Metabolism	ko00220:Arginine SYN. 
+ko04122	2.21756134677714	2.21756134677714	2.21756134677714	Sulfur relay system 	Folding, sorting and degradation	Genetic Information Processing	ko04122:Sulfur relay system 
+ko04980	1.74759397692937	1.74759397692937	1.74759397692937	Cobalamin TRNSP. & MET. 	Digestive system	Organismal Systems	ko04980:Cobalamin TRNSP. & MET. 
+ko00730	1.3175399724927	1.3175399724927	1.3175399724927	Thiamine MET. 	Metabolism of cofactors and vitamins	Metabolism	ko00730:Thiamine MET. 
+ko00860	1.30746117780886	1.30746117780886	1.30746117780886	Porphyrin MET. 	Metabolism of cofactors and vitamins	Metabolism	ko00860:Porphyrin MET. 
+ko03030	1.07013625230871	1.07013625230871	1.07013625230871	DNA replication 	Replication and repair	Genetic Information Processing	ko03030:DNA replication 
+ko02010	0.476268977003467	0.476268977003467	0.476268977003467	ABC transporters 	Membrane transport	Environmental Information Processing	ko02010:ABC transporters 
+ko00400	0.382950022212516	0.382950022212516	0.382950022212516	Phenylalanine, tyrosine and tryptophan SYN. 	Amino acid metabolism	Metabolism	ko00400:Phenylalanine, tyrosine and tryptophan SYN. 
+ko00290	0.373499645977582	0.373499645977582	0.373499645977582	Valine, leucine and isoleucine SYN.	Amino acid metabolism	Metabolism	ko00290:Valine, leucine and isoleucine SYN.
+ko00910	0.352045787162787	0.352045787162787	0.352045787162787	Nitrogen MET. 	Energy metabolism	Metabolism	ko00910:Nitrogen MET. 
+ko00360	0.0128041625382911	0.0128041625382911	0.0128041625382911	Phenylalanine MET. 	Amino acid metabolism	Metabolism	ko00360:Phenylalanine MET. 
+ko04214	-0.00111552616834968	-0.00111552616834968	0.00111552616834968	Apoptosis - fly 	Cell growth and death	Cellular Processes	ko04214:Apoptosis - fly 
+ko00534	-0.0931641295012444	-0.0931641295012444	0.0931641295012444	Glycosaminoglycan SYN. - heparan sulfate / heparin 	Glycan biosynthesis and metabolism	Metabolism	ko00534:Glycosaminoglycan SYN. - heparan sulfate / heparin 
+ko00511	-0.25055625565731	-0.25055625565731	0.25055625565731	Other glycan DEG. 	Glycan biosynthesis and metabolism	Metabolism	ko00511:Other glycan DEG. 
+ko04820	-0.326855426014934	-0.326855426014934	0.326855426014934	Cytoskeleton in muscle cells 	Cell motility	Cellular Processes	ko04820:Cytoskeleton in muscle cells 
+ko00512	-0.575126242267118	-0.575126242267118	0.575126242267118	Mucin type O-glycan SYN. 	Glycan biosynthesis and metabolism	Metabolism	ko00512:Mucin type O-glycan SYN. 
+ko04136	-1.27318407651518	-1.27318407651518	1.27318407651518	Autophagy - other 	Transport and catabolism	Cellular Processes	ko04136:Autophagy - other 
+ko04391	-1.58768284628256	-1.58768284628256	1.58768284628256	Hippo SIG. PWY. - fly 	Signal transduction	Environmental Information Processing	ko04391:Hippo SIG. PWY. - fly 
+ko00500	-1.76171293460046	-1.76171293460046	1.76171293460046	Starch and sucrose MET. 	Carbohydrate metabolism	Metabolism	ko00500:Starch and sucrose MET. 
+ko00531	-2.02704286852859	-2.02704286852859	2.02704286852859	Glycosaminoglycan DEG. 	Glycan biosynthesis and metabolism	Metabolism	ko00531:Glycosaminoglycan DEG. 
+ko00515	-2.08000253614345	-2.08000253614345	2.08000253614345	Mannose O-glycan SYN. 	Glycan biosynthesis and metabolism	Metabolism	ko00515:Mannose O-glycan SYN. 
+ko00340	-2.38032471102879	-2.38032471102879	2.38032471102879	Histidine MET. 	Amino acid metabolism	Metabolism	ko00340:Histidine MET. 
+ko04082	-3.12960217348067	-3.12960217348067	3.12960217348067	Neuroactive ligand SIG. 	Signaling molecules and interaction	Environmental Information Processing	ko04082:Neuroactive ligand SIG. 
+ko04068	-3.1478917996215	-3.1478917996215	3.1478917996215	FoxO SIG. PWY. 	Signal transduction	Environmental Information Processing	ko04068:FoxO SIG. PWY. 
+ko00562	-3.39799087804339	-3.39799087804339	3.39799087804339	Inositol phosphate MET. 	Carbohydrate metabolism	Metabolism	ko00562:Inositol phosphate MET. 
+ko03273	-4.15974652475078	-4.15974652475078	4.15974652475078	Virion(Lassa/SFTS virus) 	Information processing in viruses	Genetic Information Processing	ko03273:Virion(Lassa/SFTS virus) 
+ko03272	-4.24031802930078	-4.24031802930078	4.24031802930078	Virion(Hepatitis viruses) 	Information processing in viruses	Genetic Information Processing	ko03272:Virion(Hepatitis viruses) 
+ko04392	-4.52172102584761	-4.52172102584761	4.52172102584761	Hippo SIG. PWY. 	Signal transduction	Environmental Information Processing	ko04392:Hippo SIG. PWY. 
+ko04081	-6.12479479659733	-6.12479479659733	6.12479479659733	Hormone SIG. 	Signaling molecules and interaction	Environmental Information Processing	ko04081:Hormone SIG. 
+ko04070	-7.21543674260218	-7.21543674260218	7.21543674260218	Phosphatidylinositol SIG. 	Signal transduction	Environmental Information Processing	ko04070:Phosphatidylinositol SIG. 
