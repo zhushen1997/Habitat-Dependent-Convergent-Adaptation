@@ -1,0 +1,35 @@
+module	module_name	中文名	category_C	category_B	
+M00642	Multidrug resistance, efflux pump MexJK-OprM	多药耐药性,外排泵MexJK-OprM	Drug resistance	Drug resistance	
+M00804	Complete nitrification, comammox, ammonia => nitrite => nitrate	完全硝化作用,comammox,氨→亚硝酸盐→硝酸盐	Nitrogen metabolism	Energy metabolism	
+M00079	Keratan sulfate degradation	角蛋白硫酸盐的降解	Glycosaminoglycan metabolism	Glycan metabolism	
+M00615	Nitrate assimilation	硝酸盐同化	Metabolic capacity	Metabolic capacity	
+M00968	Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate	戊糖双磷酸途径(核苷酸降解),古菌,核苷/NMP→3-PGA/甘油酮磷酸	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00031	Lysine biosynthesis, mediated by LysW, 2-aminoadipate => lysine	赖氨酸的生物合成,由LysW介导,2-氨基己二酸→赖氨酸	Lysine metabolism	Amino acid metabolism	
+M00769	Multidrug resistance, efflux pump MexPQ-OpmE	多药耐药性,外排泵MexPQ-OpmE	Drug resistance	Drug resistance	
+M00608	2-Oxocarboxylic acid chain extension, 2-oxoglutarate => 2-oxoadipate => 2-oxopimelate => 2-oxosuberate	2-氧羧酸链延伸,2-氧戊二酸→2-氧己二酸→2-氧庚二酸→2-氧辛二酸	Methane metabolism	Energy metabolism	
+M00563	Methanogenesis, methylamine/dimethylamine/trimethylamine => methane	甲烷生成,甲基胺/二甲基胺/三甲基胺→甲烷	Methane metabolism	Energy metabolism	
+M00422	Acetyl-CoA pathway, CO2 => acetyl-CoA	乙酰辅酶A途径,CO2→乙酰辅酶A	Methane metabolism	Energy metabolism	
+M00763	Ornithine biosynthesis, mediated by LysW, glutamate => ornithine	鸟氨酸的生物合成,由LysW介导,谷氨酸→鸟氨酸	Arginine and proline metabolism	Amino acid metabolism	
+M00433	Lysine biosynthesis, 2-oxoglutarate => 2-oxoadipate	赖氨酸的生物合成,α-酮戊二酸→α-酮己二酸	Lysine metabolism	Amino acid metabolism	
+M00358	Coenzyme M biosynthesis	辅酶M的生物合成	Methane metabolism	Energy metabolism	
+M00541	Benzoyl-CoA degradation, benzoyl-CoA => 3-hydroxypimeloyl-CoA	苯甲酰辅酶A的降解,苯甲酰辅酶A→3-羟基枯酸辅酶A	Aromatics degradation	Xenobiotics biodegradation	
+ko03015	mRNA surveillance pathway	mRNA监控途径	Translation	Genetic Information Processing	
+M00930	Menaquinone biosynthesis, futalosine pathway	甲萘醌的生物合成,futalosine途径	Cofactor and vitamin metabolism	Metabolism of cofactors and vitamins	
+M00853	ETEC pathogenicity signature, colonization factors	ETEC致病性特征,黏附因子	Pathogenicity	Pathogenicity	
+M00550	Ascorbate degradation, ascorbate => D-xylulose-5P	抗坏血酸的降解,抗坏血酸→D-木酮糖-5P	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00983	GPI-anchor remodeling	GPI锚的重塑	Glycan biosynthesis	Glycan metabolism	
+M00825	10-membered enediyne core biosynthesis, malonyl-CoA => 3-hydroxyhexadeca-4,6,8,10,12,14-hexaenoyl-ACP => 10-membered enediyne core	10元环烯二炔核心的生物合成,丙二酰辅酶A→3-羟基十六碳-4,6,8,10,12,14-六烯酰-ACP→10元环烯二炔核心	Enediyne biosynthesis	Biosynthesis of terpenoids and polyketides	
+M00081	Pectin degradation	果胶的降解	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00577	Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	生物素的生物合成,BioW途径,棕榈酸→棕榈酰-CoA→生物素	Cofactor and vitamin metabolism	Metabolism of cofactors and vitamins	
+ko01051	Biosynthesis of ansamycins	鞘氨醇类抗生素的生物合成	Metabolism of terpenoids and polyketides	Biosynthesis of terpenoids and polyketides	
+M00631	D-Galacturonate degradation (bacteria), D-galacturonate => pyruvate + D-glyceraldehyde 3P	D-半乳糖醛酸的降解(细菌),D-半乳糖醛酸→丙酮酸+D-甘油醛-3P	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00033	Ectoine biosynthesis, aspartate => ectoine	生物合成,天冬氨酸→生物合成	Serine and threonine metabolism	Amino acid metabolism	
+ko00571	Lipoarabinomannan (LAM) biosynthesis	脂阿拉伯甘露聚糖(LAM)的生物合成	Glycan biosynthesis and metabolism	Glycan metabolism	
+M00736	Nocardicin A biosynthesis, L-pHPG + arginine + serine => nocardicin A	诺卡菌素A的生物合成,L-pHPG+精氨酸+丝氨酸→诺卡菌素A	Biosynthesis of beta-lactams	Biosynthesis of other secondary metabolites	
+M00013	Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA	马龙酸半醛途径,丙酰辅酶A→乙酰辅酶A	Other carbohydrate metabolism	Carbohydrate metabolism	
+M00155	Cytochrome c oxidase, prokaryotes	细胞色素c氧化酶,原核生物	ATP synthesis	Energy metabolism	
+M00886	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)	梅尔米菌酸的生物合成,起始和延伸FASII(KasA和KasB)	Fatty acid metabolism	Lipid metabolism	
+M00889	Puromycin biosynthesis, ATP => puromycin	博来霉素的生物合成,ATP→博来霉素	Biosynthesis of other antibiotics	Biosynthesis of other secondary metabolites	
+M00555	Betaine biosynthesis, choline => betaine	甜菜碱的生物合成,胆碱→甜菜碱	Serine and threonine metabolism	Amino acid metabolism	
+M00885	Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)	梅尔米菌酸的生物合成,起始和延伸FASII(KasA)	Fatty acid metabolism	Lipid metabolism	
+ko00984	Steroid degradation	类固醇的降解	Xenobiotics biodegradation and metabolism	Xenobiotics biodegradation	
