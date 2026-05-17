@@ -1,0 +1,40 @@
+pathway	pathway_name	Subcategory	Category
+ko00900	00900 Terpenoid backbone biosynthesis 	09109 Metabolism of terpenoids and polyketides	09100 Metabolism
+ko00513	00513 Various types of N-glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00450	00450 Selenocompound metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00770	00770 Pantothenate and CoA biosynthesis 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00510	00510 N-Glycan biosynthesis 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko00981	00981 Insect hormone biosynthesis 	09109 Metabolism of terpenoids and polyketides	09100 Metabolism
+ko00830	00830 Retinol metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00440	00440 Phosphonate and phosphinate metabolism 	09106 Metabolism of other amino acids	09100 Metabolism
+ko00860	00860 Porphyrin metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko03420	03420 Nucleotide excision repair 	09124 Replication and repair	09120 Genetic Information Processing
+ko03040	03040 Spliceosome 	09121 Transcription	09120 Genetic Information Processing
+ko04382	04382 Cornified envelope formation 	09158 Development and regeneration	09150 Organismal Systems
+ko03008	03008 Ribosome biogenesis in eukaryotes 	09122 Translation	09120 Genetic Information Processing
+ko04820	04820 Cytoskeleton in muscle cells 	09142 Cell motility	09140 Cellular Processes
+ko04980	04980 Cobalamin transport and metabolism 	09154 Digestive system	09150 Organismal Systems
+ko03410	03410 Base excision repair 	09124 Replication and repair	09120 Genetic Information Processing
+ko03440	03440 Homologous recombination 	09124 Replication and repair	09120 Genetic Information Processing
+ko04745	04745 Phototransduction - fly 	09157 Sensory system	09150 Organismal Systems
+ko04624	04624 Toll and Imd signaling pathway 	09151 Immune system	09150 Organismal Systems
+ko05100	05100 Bacterial invasion of epithelial cells 	09171 Infectious disease: bacterial	09160 Human Diseases
+ko00360	00360 Phenylalanine metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko03273	03273 Virion - Lassa virus and SFTS virus 	09125 Information processing in viruses	09120 Genetic Information Processing
+ko04120	04120 Ubiquitin mediated proteolysis 	09123 Folding, sorting and degradation	09120 Genetic Information Processing
+ko00330	00330 Arginine and proline metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko03430	03430 Mismatch repair 	09124 Replication and repair	09120 Genetic Information Processing
+ko03030	03030 DNA replication 	09124 Replication and repair	09120 Genetic Information Processing
+ko03050	03050 Proteasome 	09123 Folding, sorting and degradation	09120 Genetic Information Processing
+ko04350	04350 TGF-beta signaling pathway 	09132 Signal transduction	09130 Environmental Information Processing
+ko04512	04512 ECM-receptor interaction 	09133 Signaling molecules and interaction	09130 Environmental Information Processing
+ko00785	00785 Lipoic acid metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko04137	04137 Mitophagy - animal 	09141 Transport and catabolism	09140 Cellular Processes
+ko00750	00750 Vitamin B6 metabolism 	09108 Metabolism of cofactors and vitamins	09100 Metabolism
+ko00350	00350 Tyrosine metabolism 	09105 Amino acid metabolism	09100 Metabolism
+ko03265	03265 Virion - Ebolavirus, Lyssavirus and Morbillivirus 	09125 Information processing in viruses	09120 Genetic Information Processing
+ko00534	00534 Glycosaminoglycan biosynthesis - heparan sulfate / heparin 	09107 Glycan biosynthesis and metabolism	09100 Metabolism
+ko03266	03266 Virion - Herpesvirus 	09125 Information processing in viruses	09120 Genetic Information Processing
+ko04214	04214 Apoptosis - fly 	09143 Cell growth and death	09140 Cellular Processes
+ko04215	04215 Apoptosis - multiple species 	09143 Cell growth and death	09140 Cellular Processes
+ko00910	00910 Nitrogen metabolism 	09102 Energy metabolism	09100 Metabolism
